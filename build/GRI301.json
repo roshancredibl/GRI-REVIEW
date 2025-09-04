@@ -1,0 +1,285 @@
+[
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 301: Materials",
+    "card_title": "Materials",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "i. Non-renewable materials used.",
+    "question_external_id": "vC3J_H37",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Total weight or volume",
+          "field": "volume"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Material Types",
+            "options": [
+              "Raw materials",
+              "Associated process materials",
+              "Semi-manufactured goods",
+              "Materials for packaging purposes"
+            ]
+          },
+          "label": "Material Types",
+          "field": "material_types"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Purchased from",
+            "options": [
+              "External suppliers",
+              "Captive production",
+              "Extraction activities"
+            ]
+          },
+          "label": "Purchased From",
+          "field": "purchased_from"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 Total weight or volume of materials that are used to produce and package the organization’s primary products and services.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "PIDH59ck",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Materials used by weight or volume",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 301: Materials",
+    "card_title": "Materials",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "ii. Renewable materials used.",
+    "question_external_id": "veQVpsfN",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Total weight or volume",
+          "field": "volume"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Material Types",
+            "options": [
+              "Raw materials",
+              "Associated process materials",
+              "Semi-manufactured goods",
+              "Materials for packaging purposes"
+            ]
+          },
+          "label": "Material Types",
+          "field": "material_types"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Purchased from",
+            "options": [
+              "External suppliers",
+              "Captive production",
+              "Extraction activities"
+            ]
+          },
+          "label": "Purchased From",
+          "field": "purchased_from"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "1.1 Total weight or volume of materials that are used to produce and package the organization’s primary products and services.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "PIDH59ck",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Materials used by weight or volume",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 301: Materials",
+    "card_title": "Materials",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "_XD-67Jk",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0",
+            "disabled": false
+          },
+          "label": "Total recycled input materials used",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0",
+            "disabled": false
+          },
+          "label": "Total input materials used",
+          "field": "value2"
+        },
+        {
+          "type": "derived",
+          "props": {
+            "disabled": true
+          },
+          "label": "% of recycled input materials used",
+          "field": "derived_value",
+          "calculate": {
+            "operation": "Percentage",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2. 1 Percentage of recycled input materials used to manufacture the organization's primary products and services.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "akJEZ-se",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Recycled input materials used.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 301: Materials",
+    "card_title": "Materials",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "li-ZuUDy",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0",
+            "disabled": false
+          },
+          "label": " Products and their packaging materials reclaimed",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0",
+            "disabled": false
+          },
+          "label": "Products sold",
+          "field": "value2"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Product Category",
+          "field": "category"
+        },
+        {
+          "type": "derived",
+          "props": {
+            "disabled": true
+          },
+          "label": "% of reclaimed products & their packaging materials",
+          "field": "derived_value",
+          "calculate": {
+            "operation": "Percentage",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3. 1 Percentage of reclaimed products and their packaging materials for each product category.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Jztr4Sen",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Reclaimed products and their packaging materials.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 301: Materials",
+    "card_title": "Materials",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "oqw5RFBw",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "",
+          "field": "data_collected"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.2 How the data for this disclosure have been collected.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Jztr4Sen",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Reclaimed products and their packaging materials.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

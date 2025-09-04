@@ -1,0 +1,1991 @@
+[
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "uoExiJ8Q",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 A description of how the organization interacts with water, including how and where water is withdrawn, consumed, and discharged, and the water-related impacts the organization has caused or contributed to, or that are directly linked to its operations, products, or services by its business relationships (e.g., impacts caused by runoff).",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "EP1absrq",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Interactions with water as a shared resource.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "rv-QfP9G",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "1.2 A description of the approach used to identify water-related impacts, including the scope of assessments, their timeframe, and any tools or methodologies used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "EP1absrq",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Interactions with water as a shared resource.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "AIVhD8WN",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "1.3 A description of how water-related impacts are addressed, including how the organization works with stakeholders to steward water as a shared resource, and how it engages with suppliers or customers with significant water-related impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "EP1absrq",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Interactions with water as a shared resource.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "dcTmmAj_",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "1.4 An explanation of the process for setting any water-related goals and targets that are part of the organization’s approach to managing water and effluents, and how they relate to public policy and the local context of each area with water stress.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "EP1absrq",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Interactions with water as a shared resource.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. How standards for facilities operating in locations with no local discharge requirements were determined",
+    "question_external_id": "7ZDvZ9XN",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2. 1 A description of any minimum standards set for the quality of effluent discharge, and how these minimum standards were determined.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "SnRrbxMR",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of water discharge related impacts",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Any internally developed water quality standards or guidelines.",
+    "question_external_id": "Ky3RUmiW",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2. 1 A description of any minimum standards set for the quality of effluent discharge, and how these minimum standards were determined.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "SnRrbxMR",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of water discharge related impacts",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Any sector-specific standards considered.",
+    "question_external_id": "ElzRKQBJ",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "2. 1 A description of any minimum standards set for the quality of effluent discharge, and how these minimum standards were determined.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "SnRrbxMR",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of water discharge related impacts",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. whether the profile of the receiving waterbody was considered.",
+    "question_external_id": "#NAME?",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "2. 1 A description of any minimum standards set for the quality of effluent discharge, and how these minimum standards were determined.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "SnRrbxMR",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of water discharge related impacts",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "utX_C83U",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Surface water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Ground water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Sea water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Produced water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Third-Party water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3.1 Total water withdrawal from all areas in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "C_dwGPti",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Water withdrawal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "i. All areas with water stress and a breakdown of this total.",
+    "question_external_id": "ToZw1uyv",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Surface water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Ground water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Sea water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Produced water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Third-Party water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.2 Total water withdrawal in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "C_dwGPti",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Water withdrawal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "ii. Third-Party water withdrawal by withdrawal source",
+    "question_external_id": "PA_UGqHX",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Surface water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Ground water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Sea water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Produced water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Other Water (>1000 mg/L Total Dissolved Solids)",
+            "field": "value2"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "3.2 Total water withdrawal in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "C_dwGPti",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Water withdrawal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "csgan6vd",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "3.3 Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "C_dwGPti",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Water withdrawal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "i. All areas in megaliters, and a breakdown of this total.",
+    "question_external_id": "9uqKwYjT",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Surface water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Ground water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "step": "any",
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Sea water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Third-Party water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "4.1 Total water discharge in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "ii. Water discharge by freshwater and other water.",
+    "question_external_id": "zq3dQghu",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Freshwater (≤1000 mg/L Total Dissolved Solids)",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true
+            },
+            "label": "Value",
+            "field": "value1"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value2"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Other Water (>1000 mg/L Total Dissolved Solids)",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true
+            },
+            "label": "Value",
+            "field": "value1"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value2"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "4.1 Total water discharge in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "f7xbQaR4",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Surface water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Ground water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Sea water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Third-Party water",
+              "required": true
+            },
+            "label": ""
+          },
+          {
+            "type": "text",
+            "props": {
+              "required": false,
+              "disabled": false
+            },
+            "label": "Treatment Name",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "With Treatment",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Without Treatment",
+            "field": "value3"
+          },
+          {
+            "type": "text",
+            "autofill": true,
+            "props": {
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Units",
+            "field": "value4"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "4.2 Total water discharge to all areas with water stress in megaliters, and a breakdown of this total.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. How standards for facilities operating in locations with no local discharge requirements were determined",
+    "question_external_id": "U4YYX4X8",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "4.3 Priority substances of concern for which discharges are treated",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. The approach for setting discharge limits for priority substances of concern.",
+    "question_external_id": "IYEY1Wak",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "4.3 Priority substances of concern for which discharges are treated",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Number of incidents of non-compliance with discharge limits.",
+    "question_external_id": "PCY2P7Ax",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0",
+            "required": true,
+            "placeholder": "Enter Number",
+            "disabled": false
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "4.3 Priority substances of concern for which discharges are treated",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "g8MVLEyb",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "4.4 Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "1XAcNCIf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Water discharge",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "asCqvzs_",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Water Withdrawal (A)",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Water Discharge (B)",
+          "field": "value2"
+        },
+        {
+          "type": "derived",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "disabled": true
+          },
+          "label": "Total (A-B)",
+          "field": "value3",
+          "calculate": {
+            "operation": "subtraction",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "5.1 Total water consumption from all areas in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "stC4CGGL",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Water consumption",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "GpBOe1Mw",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Water Withdrawal (A)",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Water Discharge (B)",
+          "field": "value2"
+        },
+        {
+          "type": "derived",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "disabled": true
+          },
+          "label": "Total (A-B)",
+          "field": "value3",
+          "calculate": {
+            "operation": "subtraction",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "5.2 Total water consumption from all areas with water stress in megaliters.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "stC4CGGL",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Water consumption",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "JKcDhlhn",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": false,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Stored Water Before Reporting",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "autofill": false,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Stored Water After Reporting",
+          "field": "value2"
+        },
+        {
+          "type": "derived",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "disabled": true
+          },
+          "label": "Total",
+          "field": "value3",
+          "calculate": {
+            "operation": "subtraction",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "5.3 Change in water storage in megaliters, if water storage has been identified as having a significant water-related impact.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "stC4CGGL",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Water consumption",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 3,
+    "card_standards": "GRI 303: Water",
+    "card_title": "Water",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "yR4N9nAS",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "5.4 Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used, including whether the information is calculated, estimated, modeled, or sourced from direct measurements, and the approach taken for this, such as the use of any sector-specific factors.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "stC4CGGL",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Water consumption",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

@@ -8,8 +8,8 @@ const TopicStandards2025: React.FC = () => {
     navigate('/');
   };
 
-  const handleStandardClick = (standardId: string) => {
-    navigate(`/${standardId}`);
+  const handleCategoryClick = (categoryId: string) => {
+    navigate(`/topic-standards-2025/${categoryId}`);
   };
 
   return (
@@ -19,25 +19,28 @@ const TopicStandards2025: React.FC = () => {
         <div className="page-title">Topic Standards 2025</div>
       </div>
       <div className="gri-standards-list">
-        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-101-biodiversity')}>
+        <div className="gri-standard-item" onClick={() => handleCategoryClick('environmental')}>
           <div className="gri-standard-content">
-            <div className="gri-standard-title">GRI 101: Biodiversity 2024</div>
+            <div className="gri-standard-title">Environmental</div>
+            <div className="gri-standard-description">Environmental impact standards including biodiversity, climate, energy, water, waste, and emissions</div>
           </div>
           <div className="gri-standard-action">
             <button className="expand-btn">›</button>
           </div>
         </div>
-        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-102-climate')}>
+        <div className="gri-standard-item" onClick={() => handleCategoryClick('governance')}>
           <div className="gri-standard-content">
-            <div className="gri-standard-title">GRI 102: Climate Change 2025</div>
+            <div className="gri-standard-title">Governance</div>
+            <div className="gri-standard-description">Economic performance, anti-corruption, tax, procurement, and market presence standards</div>
           </div>
           <div className="gri-standard-action">
             <button className="expand-btn">›</button>
           </div>
         </div>
-        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-103-energy')}>
+        <div className="gri-standard-item" onClick={() => handleCategoryClick('social')}>
           <div className="gri-standard-content">
-            <div className="gri-standard-title">GRI 103: Energy 2025</div>
+            <div className="gri-standard-title">Social</div>
+            <div className="gri-standard-description">Employment, health and safety, training, diversity, human rights, and community standards</div>
           </div>
           <div className="gri-standard-action">
             <button className="expand-btn">›</button>

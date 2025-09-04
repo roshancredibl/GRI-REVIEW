@@ -1,0 +1,1151 @@
+[
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The inputs, activities, and outputs that lead or could lead to these impacts.",
+    "question_external_id": "h6-HaCy3",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 For the organization’s significant actual and potential waste-related impacts, a description of",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "oZ34pqL6",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Waste generation and significant waste-related impacts.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Whether these impacts relate to waste generated in the organization’s own activities or to waste generated upstream or downstream in its value chain.",
+    "question_external_id": "kLYjKT7p",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "1.1 For the organization’s significant actual and potential waste-related impacts, a description of",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "oZ34pqL6",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Waste generation and significant waste-related impacts.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "JJ4mjnLv",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2.1 Actions, including circularity measures, taken to prevent waste generation in the organization’s own activities and upstream and downstream in its value chain, and to manage significant impacts from waste generated.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "9-wuLOai",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of significant waste related impacts.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "predicator_question_answer",
+    "question_description": "",
+    "question_external_id": "ihywSck5",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "",
+          "field": "value1"
+        },
+        {
+          "type": "conditional",
+          "field": "Yes",
+          "schema": {
+            "inputs": [
+              {
+                "type": "textarea",
+                "field": "value1",
+                "label": "A description of the processes used to determine whether the third party manages the waste in line with contractual or legislative obligations.",
+                "props": {
+                  "required": true,
+                  "placeholder": "Enter Text"
+                }
+              }
+            ]
+          },
+          "render_class": "single_row_multi_input_single_answer",
+          "compare_field": "value1",
+          "compare_value": "Yes"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2.2 If the waste generated by the organization in its own activities is managed by a third party?",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "9-wuLOai",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of significant waste related impacts.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "UylQkuxN",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "2.3 The processes used to collect and monitor waste-related data.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "9-wuLOai",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Management of significant waste related impacts.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "HdLEk7zV",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "autofill": true,
+          "props": {
+            "required": true
+          },
+          "label": "Category Name",
+          "field": "category_name"
+        },
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Waste Generated (Metric Tonnes)",
+          "field": "waste_generated"
+        },
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Waste Diverted from Disposal (Metric Tonnes)",
+          "field": "waste_diverted"
+        },
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true
+          },
+          "label": "Waste Directed to Disposal (Metric Tonnes)",
+          "field": "waste_directed"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3.1 Total weight of waste generated in metric tons, and a breakdown of this total by composition of the waste.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "kd5-63f3",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Waste generated.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "1Iy_zeal",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.2 Contextual information necessary to understand the data and how the data has been compiled.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "kd5-63f3",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Waste generated.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "UR4Qbm0F",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true,
+            "placeholder": ""
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "4.1 Total weight of waste diverted from disposal in metric tons.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "ooGyjrKf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Waste diverted from disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "_n9-svgO",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Preparation for reuse",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Recycling",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "4.2 Total weight of hazardous waste diverted from disposal in metric tons",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "ooGyjrKf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Waste diverted from disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "GJHq_tbJ",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Preparation for reuse",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Recycling",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "4.3 Total weight of non-hazardous waste diverted from disposal in metric tons",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "ooGyjrKf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Waste diverted from disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "nqfm587h",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "4.4 Contextual information necessary to understand the data and how the data has been compiled.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "ooGyjrKf",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Waste diverted from disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "2RRpsKPD",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true,
+            "placeholder": ""
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "5.1 Total weight of waste directed to disposal in metric tons.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "2B-KHmlB",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Waste directed to disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "i-dErKUO",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Incineration (with energy recovery)",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Incineration (without energy recovery)",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Landfilling",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "5.2 Total weight of hazardous waste directed to disposal in metric tons",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "2B-KHmlB",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Waste directed to disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "5z_W0pjB",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Incineration (with energy recovery)",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Incineration (without energy recovery)",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Landfilling",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "Non Hazardous Waste"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "On Site",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Off Site",
+            "field": "value2"
+          },
+          {
+            "type": "number",
+            "autofill": true,
+            "props": {
+              "step": "any",
+              "required": true,
+              "placeholder": ""
+            },
+            "label": "Total",
+            "field": "value3"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "5.3 Total weight of non-hazardous waste directed to disposal in metric tons",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "2B-KHmlB",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Waste directed to disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 6,
+    "card_standards": "GRI 306: Waste",
+    "card_title": "Waste",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "jjPfeH4R",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "5.4 Contextual information necessary to understand the data and how the data has been compiled.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "2B-KHmlB",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Waste directed to disposal",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

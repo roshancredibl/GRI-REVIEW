@@ -1,0 +1,720 @@
+[
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "OsA4-YpU",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Operational site name",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Nature of site",
+          "field": "value2"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Geographic location",
+          "field": "value3"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Subsurface and underground land",
+          "field": "value4"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Position to the protected area",
+          "field": "value5"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Office",
+              "Manufacturing",
+              "Production",
+              "Extractive"
+            ]
+          },
+          "label": "Type of operation",
+          "field": "value6"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Size of operational",
+          "field": "value7"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Biodiversity value",
+          "field": "value8"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Biodiversity value characterized",
+          "field": "value9"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 For each operational site owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uvW6g-Zc",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "i. Construction or use of manufacturing plants, mines, and transport infrastructure.",
+    "question_external_id": "3c7dM3-3",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2.1 Nature of significant direct and indirect impacts on biodiversity.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "ii. Pollution (introduction of substances that do not naturally occur in the habitat from point and non-point sources)",
+    "question_external_id": "wA_UVsEj",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2.1 Nature of significant direct and indirect impacts on biodiversity.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iii. Introduction of invasive species, pests, and pathogens.",
+    "question_external_id": "64f8QfNk",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "2.1 Nature of significant direct and indirect impacts on biodiversity.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iv. Reduction of species.",
+    "question_external_id": "W-QXVwqd",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "2.1 Nature of significant direct and indirect impacts on biodiversity.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "v. Habitat conversion.",
+    "question_external_id": "IPH1aFkT",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "2.1 Nature of significant direct and indirect impacts on biodiversity.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "vi. Changes in ecological processes outside the natural range of variation (such as salinity or changes in groundwater level).",
+    "question_external_id": "KTOIophL",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "2.1 Nature of significant direct and indirect impacts on biodiversity.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "i. Species affected.",
+    "question_external_id": "RWU7od1F",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Significant impacts",
+          "field": "significant_impacts"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "2.2 Significant direct and indirect positive and negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "ii. Extent of areas impacted.",
+    "question_external_id": "5U7w-7UR",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Significant impacts",
+          "field": "significant_impacts"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "2.2 Significant direct and indirect positive and negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iii. Duration of impacts.",
+    "question_external_id": "W9oiWsCB",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Significant impacts",
+          "field": "significant_impacts"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "2.2 Significant direct and indirect positive and negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iv. Reversibility or irreversibility of the impacts.",
+    "question_external_id": "ionBFZXf",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Significant impacts",
+          "field": "significant_impacts"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "2.2 Significant direct and indirect positive and negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "uDD7R3GW",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Significant impacts of activities, products and services on biodiversity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "osrtH_yP",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Size of habitat",
+          "field": "size_of_habitat"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Location of Habitat",
+          "field": "location_of_habitat"
+        },
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "Success of the restoration measure is approved by independent external professionals",
+          "field": "value_3"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3.1 Size and location of all habitat areas protected or restored, and whether the success of the restoration measure was or is approved by independent external professionals.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "AEfC4OkF",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Habitats protected or restored.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "XSHhSNGQ",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.2 Whether partnerships exist with third parties to protect or restore habitat areas distinct from where the organization has overseen and implemented restoration or protection measures.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "AEfC4OkF",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Habitats protected or restored.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "5mfcgKiq",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "3.3 Status of each area based on its condition at the close.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "AEfC4OkF",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Habitats protected or restored.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "WQehDQLn",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Value",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "3.4 Standards, methodologies, and assumptions used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "AEfC4OkF",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Habitats protected or restored.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 4,
+    "card_standards": "GRI 304: Biodiversity",
+    "card_title": "Biodiversity",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "bl5dlbbC",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Critically endangered",
+              "required": true
+            },
+            "label": "Level of extinction risk",
+            "field": "level_of_extinction_risk"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of IUCN Red List species and national conservation",
+            "field": "total_iucn_number"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Endangered",
+              "required": true
+            },
+            "label": "Level of extinction risk",
+            "field": "level_of_extinction_risk"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of IUCN Red List species and national conservation",
+            "field": "total_iucn_number"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Vulnerable",
+              "required": true
+            },
+            "label": "Level of extinction risk",
+            "field": "level_of_extinction_risk"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of IUCN Red List species and national conservation",
+            "field": "total_iucn_number"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Near threatened",
+              "required": true
+            },
+            "label": "Level of extinction risk",
+            "field": "level_of_extinction_risk"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of IUCN Red List species and national conservation",
+            "field": "total_iucn_number"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Least concern",
+              "required": true
+            },
+            "label": "Level of extinction risk",
+            "field": "level_of_extinction_risk"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of IUCN Red List species and national conservation",
+            "field": "total_iucn_number"
+          }
+        ]
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "4.1 Total number of IUCN Red List species and national conservation list species with habitats in areas affected by the operations of the organization.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. IUCN Red List species and national conservation list species with habitats in areas affected by operations",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

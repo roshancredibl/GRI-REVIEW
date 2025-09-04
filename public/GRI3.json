@@ -1,0 +1,569 @@
+[
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. How it has identified actual and potential, negative and positive impacts on the economy, environment, and people, including impacts on their human rights, across its activities and business relationships.",
+    "question_external_id": "yqqgdnZs",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 Describe the process it has followed to determine its material topics.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Dh8f2vYn",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Process to determine material topics.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. How it has prioritized the impacts for reporting based on their significance",
+    "question_external_id": "WxRyifk2",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "1.1 Describe the process it has followed to determine its material topics.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Dh8f2vYn",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Process to determine material topics.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "eT36N6gz",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "1.2 Specify the stakeholders and experts whose views have informed the process of determining its material topics.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Dh8f2vYn",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Process to determine material topics.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "iASGbU2J",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Text"
+          },
+          "label": "Material Topics",
+          "field": "value1"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Human Rights",
+            "options": [
+              "Negative",
+              "Positive"
+            ]
+          },
+          "label": "Human Rights",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2.1 List its material topics.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "JLn2OS64",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. List of material topics.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "St4-XQ3H",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2.2 Report changes to the list of material topics compared to the previous reporting period.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "JLn2OS64",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. List of material topics.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "MMwtGsk4",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3.1 Describe the actual and potential, negative and positive impacts on the economy, environment, and people, including impacts on their human rights.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "4Rd-T9IP",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.2 Report whether the organization is involved with the negative impacts through its activities or as a result of its business relationships, and describe the activities or business relationships.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "CR0F2qHI",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "3.3 Describe its policies or commitments regarding the material topic.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Actions to prevent or mitigate potential negative impacts",
+    "question_external_id": "#NAME?",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "3.4 Describe actions taken to manage the topic and related impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Actions to address actual negative impacts, including actions to provide for or cooperate in their remediation.",
+    "question_external_id": "V7DRxORq",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "3.4 Describe actions taken to manage the topic and related impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Actions to manage actual and potential positive impacts.",
+    "question_external_id": "1zh-5Deq",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "3.4 Describe actions taken to manage the topic and related impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "i. Processes used to track the effectiveness of the actions.",
+    "question_external_id": "j--CFqDc",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Text"
+          },
+          "label": "Process used to track the effectiveness of the actions",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "3.5 Report the following information about tracking the effectiveness of the actions taken.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Goals, targets, and indicators used to evaluate progress",
+    "question_external_id": "WBl71DS-",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "3.5 Report the following information about tracking the effectiveness of the actions taken.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. The effectiveness of the actions, including progress toward the goals and targets.",
+    "question_external_id": "FUSfN22Z",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "3.5 Report the following information about tracking the effectiveness of the actions taken.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. Lessons learned and how these have been incorporated into the organization's operational policies and procedures",
+    "question_external_id": "PUAkS2AP",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "3.5 Report the following information about tracking the effectiveness of the actions taken.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 2,
+    "card_standards": "GRI 3: Material Topic",
+    "card_title": "Material Topic",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "lvoc06c4",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 11,
+    "question_title": "3.6 Describe how engagement with stakeholders has informed the actions taken and how it has informed whether the actions have been effective",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HMyD6h43",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Management of material topics",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

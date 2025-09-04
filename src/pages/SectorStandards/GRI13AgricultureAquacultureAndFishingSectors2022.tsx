@@ -1,18 +1,21 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const GRI102Climate: React.FC = () => {
+const GRI13AgricultureAquacultureAndFishingSectors2022: React.FC = () => {
   const navigate = useNavigate();
 
   const handleBackClick = () => {
-    navigate('/topic-standards-2025');
+    navigate('/sector-standards');
   };
 
   return (
     <div className="page-container">
       <div className="page-header">
         <button className="back-btn" onClick={handleBackClick}>← Back</button>
-        <div className="page-title">GRI 102: Climate Change 2025</div>
+        <div className="page-title">GRI 13: Agriculture, Aquaculture and Fishing Sectors 2022</div>
+        <button className="download-gri-btn" onClick={() => console.log('Download GRI Standard - Placeholder')}>
+          Download the GRI Standard
+        </button>
       </div>
       <div className="materials-page">
         <div className="page-top-info">
@@ -31,41 +34,37 @@ const GRI102Climate: React.FC = () => {
         </div>
         
         <div className="section-header">
-          <div className="section-title">Climate Change</div>
-          <div className="gri-reference">GRI 102: Climate Change</div>
+          <div className="section-title">Agriculture, Aquaculture and Fishing Sectors</div>
+          <div className="gri-reference">GRI 13: Agriculture, Aquaculture and Fishing Sectors 2022</div>
           <div className="main-heading">
-            1. Greenhouse gas emissions and climate risks
+            1. Agricultural sustainability and fishing practices
             <div className="info-icon">i</div>
           </div>
         </div>
         
         <div className="subsection">
           <div className="subsection-title">
-            1.1 Total greenhouse gas emissions (Scope 1, 2, and 3) in metric tons of CO2 equivalent.
+            1.1 Sustainable farming and fishing practices.
             <div className="collaboration-icon">👥</div>
           </div>
           
           <div className="form-row">
             <div className="form-group">
-              <label className="form-label">Total emissions (tCO2e)</label>
-              <input type="text" className="form-input" placeholder="Enter value" />
+              <label className="form-label">Production Volume</label>
+              <input type="text" className="form-input" placeholder="Enter volume" />
             </div>
             <div className="form-group">
-              <label className="form-label">Emission Scope</label>
+              <label className="form-label">Sector Type</label>
               <select className="form-select">
-                <option>Select Scope</option>
-                <option>Scope 1</option>
-                <option>Scope 2</option>
-                <option>Scope 3</option>
+                <option>Select Type</option>
+                <option>Agriculture</option>
+                <option>Aquaculture</option>
+                <option>Fishing</option>
               </select>
             </div>
             <div className="form-group">
-              <label className="form-label">Reporting Year</label>
-              <select className="form-select">
-                <option>Select Year</option>
-                <option>2024</option>
-                <option>2025</option>
-              </select>
+              <label className="form-label">Sustainability Certification</label>
+              <input type="text" className="form-input" placeholder="Enter certification" />
             </div>
           </div>
           
@@ -86,4 +85,4 @@ const GRI102Climate: React.FC = () => {
   );
 };
 
-export default GRI102Climate;
+export default GRI13AgricultureAquacultureAndFishingSectors2022;

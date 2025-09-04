@@ -1,0 +1,131 @@
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
+
+const Environmental: React.FC = () => {
+  const navigate = useNavigate();
+
+  const handleBackClick = () => {
+    navigate('/gri/dashboard');
+  };
+
+  const handleStandardClick = (standardId: string) => {
+    navigate(`/${standardId}`);
+  };
+
+  return (
+    <div className="page-container">
+      <div className="page-header">
+        <button className="back-btn" onClick={handleBackClick}>← Back</button>
+        <div className="page-title">Environmental Standards</div>
+      </div>
+      <div className="gri-standards-list">
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-301-materials')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 301: Materials</div>
+            <div className="gri-standard-description">Materials used by weight or volume</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+        
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-302-energy')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 302: Energy</div>
+            <div className="gri-standard-description">Energy consumption within the organization</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-303-water')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 303: Water</div>
+            <div className="gri-standard-description">Water withdrawal, discharge and consumption</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-304-biodiversity')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 304: Biodiversity</div>
+            <div className="gri-standard-description">Operational sites in or adjacent to protected areas</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-305-emission')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 305: Emission</div>
+            <div className="gri-standard-description">Direct and indirect greenhouse gas emissions</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-306-waste')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 306: Waste</div>
+            <div className="gri-standard-description">Waste generation and disposal methods</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-308-supplier-environmental-assessment')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 308: Supplier Environmental Assessment</div>
+            <div className="gri-standard-description">Environmental screening of suppliers</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        {/* 2024-2025 Updated Standards */}
+        <div className="section-divider">
+          <div className="section-title">Updated Standards 2024-2025</div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-101-biodiversity')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 101: Biodiversity 2024</div>
+            <div className="gri-standard-description">Updated biodiversity impacts and dependencies</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-102-climate')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 102: Climate Change 2025</div>
+            <div className="gri-standard-description">Climate-related risks and opportunities</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+
+        <div className="gri-standard-item" onClick={() => handleStandardClick('gri-103-energy')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 103: Energy 2025</div>
+            <div className="gri-standard-description">Updated energy consumption and efficiency</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Environmental;

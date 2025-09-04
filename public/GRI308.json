@@ -1,0 +1,250 @@
+[
+  {
+    "card_sequence": 8,
+    "card_standards": "GRI 308: Supplier Environmental Assessment",
+    "card_title": "Supplier Environmental Assessment",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "15Q_yK1f",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Percentage",
+            "min": "0",
+            "max": "100"
+          },
+          "label": "Value",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 Percentage of new suppliers that were screened using environmental criteria.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "HYfTuutX",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. New suppliers that were screened using environmental criteria.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 8,
+    "card_standards": "GRI 308: Supplier Environmental Assessment",
+    "card_title": "Supplier Environmental Assessment",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "3Jhrrwsx",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of Suppliers",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Location",
+          "field": "value2"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Environmental impacts",
+            "options": [
+              "Actual Environmental impact",
+              "Potential Negative Environmental impact"
+            ]
+          },
+          "label": "Environmental impacts",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2.1 Number of suppliers assessed for environmental impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gstyq7hT",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Negative environmental impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 8,
+    "card_standards": "GRI 308: Supplier Environmental Assessment",
+    "card_title": "Supplier Environmental Assessment",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "d-7M4CyF",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of Suppliers",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Location",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2.2 Number of suppliers identified as having significant actual and potential negative environmental impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gstyq7hT",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Negative environmental impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 8,
+    "card_standards": "GRI 308: Supplier Environmental Assessment",
+    "card_title": "Supplier Environmental Assessment",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Vtn56q-p",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "3"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "2.3 Significant actual and potential negative environmental impacts identified in the supply chain.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gstyq7hT",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Negative environmental impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 8,
+    "card_standards": "GRI 308: Supplier Environmental Assessment",
+    "card_title": "Supplier Environmental Assessment",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "ygTXNNSD",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "percentage",
+          "props": {
+            "required": true,
+            "min": "0",
+            "max": "100"
+          },
+          "label": "Percentage of suppliers",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Location",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "2.4 Suppliers identified as having significant actual and potential negative environmental impacts with which improvements were agreed upon as a result of assessment.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gstyq7hT",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Negative environmental impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 8,
+    "card_standards": "GRI 308: Supplier Environmental Assessment",
+    "card_title": "Supplier Environmental Assessment",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "vVXb_ZV_",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "percentage",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of Suppliers",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Reason",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "2.5 Suppliers identified as having significant actual and potential negative environmental impacts with which relationships were terminated as a result of assessment.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gstyq7hT",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Negative environmental impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

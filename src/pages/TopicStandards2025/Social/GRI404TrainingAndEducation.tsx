@@ -1,18 +1,21 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const GRI103Energy: React.FC = () => {
+const GRI404TrainingAndEducation: React.FC = () => {
   const navigate = useNavigate();
 
   const handleBackClick = () => {
-    navigate('/topic-standards-2025');
+    navigate('/topic-standards-2025/social');
   };
 
   return (
     <div className="page-container">
       <div className="page-header">
         <button className="back-btn" onClick={handleBackClick}>← Back</button>
-        <div className="page-title">GRI 103: Energy 2025</div>
+        <div className="page-title">GRI 404: Training and Education</div>
+        <button className="download-gri-btn" onClick={() => console.log('Download GRI Standard - Placeholder')}>
+          Download the GRI Standard
+        </button>
       </div>
       <div className="materials-page">
         <div className="page-top-info">
@@ -31,42 +34,36 @@ const GRI103Energy: React.FC = () => {
         </div>
         
         <div className="section-header">
-          <div className="section-title">Energy</div>
-          <div className="gri-reference">GRI 103: Energy</div>
+          <div className="section-title">Training and Education</div>
+          <div className="gri-reference">GRI 404: Training and Education</div>
           <div className="main-heading">
-            1. Energy consumption and efficiency
+            1. Average hours of training per year per employee
             <div className="info-icon">i</div>
           </div>
         </div>
         
         <div className="subsection">
           <div className="subsection-title">
-            1.1 Total energy consumption from renewable and non-renewable sources.
+            1.1 Average hours of training per year per employee by gender and by employee category.
             <div className="collaboration-icon">👥</div>
           </div>
           
           <div className="form-row">
             <div className="form-group">
-              <label className="form-label">Total energy consumption (MWh)</label>
-              <input type="text" className="form-input" placeholder="Enter value" />
+              <label className="form-label">Employee Category</label>
+              <input type="text" className="form-input" placeholder="Enter employee category" />
             </div>
             <div className="form-group">
-              <label className="form-label">Energy Source</label>
-              <select className="form-select">
-                <option>Select Energy Source</option>
-                <option>Renewable</option>
-                <option>Non-renewable</option>
-                <option>Mixed</option>
-              </select>
+              <label className="form-label">Training Hours</label>
+              <input type="text" className="form-input" placeholder="Enter hours" />
             </div>
             <div className="form-group">
-              <label className="form-label">Energy Type</label>
+              <label className="form-label">Gender</label>
               <select className="form-select">
-                <option>Select Energy Type</option>
-                <option>Electricity</option>
-                <option>Natural Gas</option>
-                <option>Solar</option>
-                <option>Wind</option>
+                <option>Select Gender</option>
+                <option>Male</option>
+                <option>Female</option>
+                <option>Combined</option>
               </select>
             </div>
           </div>
@@ -88,4 +85,4 @@ const GRI103Energy: React.FC = () => {
   );
 };
 
-export default GRI103Energy;
+export default GRI404TrainingAndEducation;

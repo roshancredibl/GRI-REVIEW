@@ -1,0 +1,1651 @@
+[
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Od13YpUz",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true,
+            "placeholder": ""
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 Gross direct (Scope 1) GHG emissions in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "1d53Ypf5",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CO₂"
+          },
+          "field": "value_cO2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CH₄"
+          },
+          "field": "value_cH4"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "N₂O"
+          },
+          "field": "value_N20"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "HFCs"
+          },
+          "field": "value_hfcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "PFCs"
+          },
+          "field": "value_phcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "SF₆"
+          },
+          "field": "value_sf6"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "NF₃"
+          },
+          "field": "value_nf3"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "1.2 Gases included in the calculation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "d6AwA9aJ",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Enter Value"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "1.3 Biogenic CO2 emissions in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The rationale for choosing it",
+    "question_external_id": "DF49Lsoi",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "1.4 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Emissions in the base year",
+    "question_external_id": "clUFEUY9",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Enter Value"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "1.4 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. The context for any significant changes in emissions that triggered recalculations of base year emissions.",
+    "question_external_id": "gXSzh5O5",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "1.4 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "jHxFoC3M",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Source of the emission factors",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The global warming potential (GWP) rates used, or a reference to the GWP source",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "1.5 Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "x0MoKbGe",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Equity share"
+          },
+          "field": "equity_share"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Financial Control"
+          },
+          "field": "financial_control"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Operational Control"
+          },
+          "field": "operational_control"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "1.6 Consolidation approach for emissions.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "rCtJXxFK",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "1.7 Standards, methodologies, assumptions, and/or calculation tools used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "dg8998daa",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. Direct (Scope 1) Emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "93otZ_5A",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true,
+            "placeholder": ""
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2.1 Gross location-based energy indirect (Scope 2) GHG emissions in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "UGxxW8Ku",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true,
+            "placeholder": ""
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2.2 Gross market-based energy indirect (Scope 2) GHG emissions in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "WkxFG59O",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CO₂"
+          },
+          "field": "value_cO2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CH₄"
+          },
+          "field": "value_cH4"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "N₂O"
+          },
+          "field": "value_N20"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "HFCs"
+          },
+          "field": "value_hfcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "PFCs"
+          },
+          "field": "value_phcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "SF₆"
+          },
+          "field": "value_sf6"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "NF₃"
+          },
+          "field": "value_nf3"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "2.3 Gases included in the calculation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The rationale for choosing it",
+    "question_external_id": "UrzRYpry",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "2.4 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Emissions in the base year",
+    "question_external_id": "clUf62Y9",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Enter Value"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "2.4 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. The context for any significant changes in emissions that triggered recalculations of base year emissions.",
+    "question_external_id": "1cXHsWou",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "2.4 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "z0soKFG4",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Equity share"
+          },
+          "field": "equity_share"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Financial Control"
+          },
+          "field": "financial_control"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Operational Control"
+          },
+          "field": "operational_control"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "2.6 Consolidation approach for emissions.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "ty45adfT",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "2.7 Standards, methodologies, assumptions, and/or calculation tools used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "jfxaod3M",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Source of the emission factors",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The global warming potential (GWP) rates used, or a reference to the GWP source",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "2.5 Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tfe-bi2r",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Energy indirect (Scope 2) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "ugqbOqS3",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "autofill": true,
+          "props": {
+            "step": "any",
+            "required": true,
+            "placeholder": ""
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3.1 Gross other indirect (Scope 3) GHG emissions in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "TgBsQzCN",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CO₂"
+          },
+          "field": "value_cO2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CH₄"
+          },
+          "field": "value_cH4"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "N₂O"
+          },
+          "field": "value_N20"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "HFCs"
+          },
+          "field": "value_hfcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "PFCs"
+          },
+          "field": "value_phcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "SF₆"
+          },
+          "field": "value_sf6"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "NF₃"
+          },
+          "field": "value_nf3"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.2 Gases included in the calculation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "5oqBTwEb",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Enter Value"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "3.3 Biogenic CO2 emissions in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "GwnQQqhB",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "3.4 Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The rationale for choosing it",
+    "question_external_id": "H_tIenEP",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "3.5 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Emissions in the base year",
+    "question_external_id": "QpEjdqaH",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Enter Value"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "3.5 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. The context for any significant changes in emissions that triggered recalculations of base year emissions.",
+    "question_external_id": "As-A-WHU",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "3.5 Base year for the calculation",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "_q0NBq03",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Source of the emission factors",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The global warming potential (GWP) rates used, or a reference to the GWP source",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "3.6 Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "2u62MjP-",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Equity share"
+          },
+          "field": "equity_share"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Financial Control"
+          },
+          "field": "financial_control"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Operational Control"
+          },
+          "field": "operational_control"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "3.7 Consolidation approach for emissions.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "jYB8S6xD",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "3.8 Standards, methodologies, assumptions, and/or calculation tools used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "qWXBJPLI",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Other indirect (Scope 3) GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "s044A4Su",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Ratio Value",
+            "disabled": false
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "4.1 GHG emissions intensity ratio for the organization.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "pW0ek1hs",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. GHG emissions intensity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "zuPoUZCD",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Organization-specific metric",
+            "disabled": false
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "4.2 Organization-specific metric (the denominator) chosen to calculate the ratio.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "pW0ek1hs",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. GHG emissions intensity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "cPBxO570",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Direct (Scope 1)"
+          },
+          "field": "scope_1"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Energy Indirect (Scope 2)"
+          },
+          "field": "scope_2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Other indirect (Scope 3)"
+          },
+          "field": "scope_3"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "4.3 Types of GHG emissions included in the intensity ratio.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "pW0ek1hs",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. GHG emissions intensity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "4pGHSroH",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CO₂"
+          },
+          "field": "value_cO2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CH₄"
+          },
+          "field": "value_cH4"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "N₂O"
+          },
+          "field": "value_N20"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "HFCs"
+          },
+          "field": "value_hfcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "PFCs"
+          },
+          "field": "value_phcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "SF₆"
+          },
+          "field": "value_sf6"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "NF₃"
+          },
+          "field": "value_nf3"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "4.4 Gases included in the calculation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "pW0ek1hs",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. GHG emissions intensity.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "TBAK5BjB",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Enter Value"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "5.1 GHG emissions reduced as a direct result of reduction initiatives, in metric tons of CO2 equivalent.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "hflSdXnT",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Reduction of GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "6ldyTj8j",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CO₂"
+          },
+          "field": "value_cO2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "CH₄"
+          },
+          "field": "value_cH4"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "N₂O"
+          },
+          "field": "value_N20"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "HFCs"
+          },
+          "field": "value_hfcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "PFCs"
+          },
+          "field": "value_phcs"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "SF₆"
+          },
+          "field": "value_sf6"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "NF₃"
+          },
+          "field": "value_nf3"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "5.2 Gases included in the calculation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "hflSdXnT",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Reduction of GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "CL3mX5PN",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter base year or baseline"
+          },
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "5.3 Base year or baseline, including the rationale for choosing it.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "hflSdXnT",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Reduction of GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "u8LvbRfh",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Direct (Scope 1)"
+          },
+          "field": "scope_1"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Energy Indirect (Scope 2)"
+          },
+          "field": "scope_2"
+        },
+        {
+          "type": "checkbox",
+          "props": {
+            "required": true,
+            "label": "Other indirect (Scope 3)"
+          },
+          "field": "scope_3"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "5.4 Types of GHG emissions included in the intensity ratio.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "hflSdXnT",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Reduction of GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 5,
+    "card_standards": "GRI 305: Emission",
+    "card_title": "Emission",
+    "esg_type": "Topic Standards :- Environmental",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "qoBz5yyd",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "5.5 Standards, methodologies, assumptions, and/or calculation tools used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "hflSdXnT",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Reduction of GHG emissions.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

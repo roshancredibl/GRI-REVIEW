@@ -1,0 +1,42 @@
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
+
+const UniversalStandards: React.FC = () => {
+  const navigate = useNavigate();
+
+  const handleBackClick = () => {
+    navigate('/gri/dashboard');
+  };
+
+  return (
+    <div className="page-container">
+      <div className="page-header">
+        <button className="back-btn" onClick={handleBackClick}>← Back</button>
+        <div className="page-title">Universal Standards</div>
+      </div>
+      <div className="gri-standards-list">
+        <div className="gri-standard-item" onClick={() => navigate('/gri-2-general-disclosures')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 2: General Disclosures</div>
+            <div className="gri-standard-description">Basic information about the organization and its reporting practices, governance structure, strategy, and stakeholder engagement</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+        
+        <div className="gri-standard-item" onClick={() => navigate('/gri-3-material-topic')}>
+          <div className="gri-standard-content">
+            <div className="gri-standard-title">GRI 3: Material Topic</div>
+            <div className="gri-standard-description">Process for determining material topics and managing material topics</div>
+          </div>
+          <div className="gri-standard-action">
+            <button className="expand-btn">›</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default UniversalStandards;

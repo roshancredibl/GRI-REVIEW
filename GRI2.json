@@ -1,0 +1,3416 @@
+[
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Report its legal name",
+    "question_external_id": "Ts-c49_3",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "1.1 Organizational details.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Report its nature of ownership and legal form",
+    "question_external_id": "5VqphxBV",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "1.1 Organizational details.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Report the location of its headquarters.",
+    "question_external_id": "8NPPILMi",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "1.1 Organizational details.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "iv. Report its countries of operation",
+    "question_external_id": "w0IPOony",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Country",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "City",
+          "field": "value2"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "State",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "1.1 Organizational details.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "i. List all its entities included in its sustainability reporting.",
+    "question_external_id": "YsPdp-ip",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Entity included in its sustainability reporting",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "1.2 Entities included in the organization’s sustainability reporting.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. If the organization has audited consolidated financial statements or financial information filed on public record, specify the differences between the list of entities included in its financial reporting and the list included in its sustainability reporting.",
+    "question_external_id": "lknTX4gu",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "1.2 Entities included in the organization’s sustainability reporting.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "iii. If the organization consists of multiple entities, explain the approach used for consolidating the information.",
+    "question_external_id": "s0345A4Q",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Approach involves adjustments to information for minority interests",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Approach takes into account mergers, acquisitions, and disposal of entities or parts of entities",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether and how the approach differs across the disclosures in this Standard and across material topics",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "1.2 Entities included in the organization’s sustainability reporting.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "i. Specify the reporting period for, and the frequency of, its sustainability reporting.",
+    "question_external_id": "8XZFhtx5",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "date",
+          "props": {
+            "required": true
+          },
+          "label": "Start Date",
+          "field": "value1"
+        },
+        {
+          "type": "date",
+          "props": {
+            "required": true
+          },
+          "label": "End Date",
+          "field": "value2"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Frequency",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "1.3 Reporting period, frequency and contact point.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Specify the reporting period for its financial reporting and, if it does not align with the period for its sustainability reporting, explain the reason for this",
+    "question_external_id": "tkJAlqdL",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "date",
+          "props": {
+            "required": true
+          },
+          "label": "Start Date",
+          "field": "value1"
+        },
+        {
+          "type": "date",
+          "props": {
+            "required": true
+          },
+          "label": "End Date",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Reason",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "1.3 Reporting period, frequency and contact point.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iii. Report the publication date of the report or reported information",
+    "question_external_id": "zwrHfGYE",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "date",
+          "props": {
+            "required": true
+          },
+          "label": "Publication Date",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "1.3 Reporting period, frequency and contact point.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. Specify the contact point for questions about the report or reported information",
+    "question_external_id": "mRjrxIkT",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 11,
+    "question_title": "1.3 Reporting period, frequency and contact point.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The reasons for the restatements from previous reporting periods.",
+    "question_external_id": "fHYzRd9D",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 12,
+    "question_title": "1.4 Restatements of information",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. The effect of the restatements from previous reporting periods.",
+    "question_external_id": "9s-DeFH5",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 13,
+    "question_title": "1.4 Restatements of information",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Describe its policy and practice for seeking external assurance, including whether and how the highest governance body and senior executives are involved",
+    "question_external_id": "HCdOSGm-",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 14,
+    "question_title": "1.5 External assurance.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. If the organization’s sustainability reporting has been externally assured.",
+    "question_external_id": "DHhMrL1r",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Link or reference to the external assurance report(s) or assurance statement",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Describe what has been assured and on what basis, including the assurance standards used, the level of assurance obtained, and any limitations of the assurance process",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Describe the relationship between the organization and the assurance provider",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 15,
+    "question_title": "1.5 External assurance.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "aPYa_Xa5",
+    "questionnaire_section_sequence": 1,
+    "questionnaire_section_title": "1. The organization and its reporting practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "i. Report the sector(s) in which it is active.",
+    "question_external_id": "eBhnV3DB",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Sector Name",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "2.1 Activities, value chain and other business relationships.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Describe its value chain.",
+    "question_external_id": "uwUr_VoI",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The organization’s activities, products, services, and markets served",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The organization’s supply chain",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The entities downstream from the organization and their activities",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "2.1 Activities, value chain and other business relationships.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Report other relevant business relationships.",
+    "question_external_id": "E7mPKDE4",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "2.1 Activities, value chain and other business relationships.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. Describe significant changes in 2.1-i, 2.1-ii, and 2.1-iii compared to the previous reporting period",
+    "question_external_id": "kBcCQRBl",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "2.1 Activities, value chain and other business relationships.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "i. Total number of employees, and a breakdown of this total by gender and by region",
+    "question_external_id": "rs--XfHJ",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Male",
+          "field": "value2"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Female",
+          "field": "value3"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Others",
+          "field": "value4"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Undisclosed",
+          "field": "value5"
+        },
+        {
+          "type": "derived",
+          "props": {
+            "disabled": true
+          },
+          "label": "Total",
+          "field": "value6",
+          "calculate": {
+            "operation": "Add",
+            "fields": [
+              "value2",
+              "value3",
+              "value4",
+              "value5"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "2.2 Employees.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "ii. Report the total number of",
+    "question_external_id": "SVLhYpVq",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Employee Type",
+            "options": [
+              "Permanent employees",
+              "Temporary employees",
+              "Non-guaranteed hours",
+              "Full-time employees",
+              "Part-time employees"
+            ]
+          },
+          "label": "Employee Type",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Region",
+          "field": "value2"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Male",
+          "field": "value3"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Female",
+          "field": "value4"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "others",
+          "field": "value5"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "disabled": false
+          },
+          "label": "Undisclosed",
+          "field": "value6"
+        },
+        {
+          "type": "derived",
+          "props": {
+            "disabled": true
+          },
+          "label": "Total",
+          "field": "value7",
+          "calculate": {
+            "operation": "Add",
+            "fields": [
+              "value3",
+              "value4",
+              "value5",
+              "value6"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "2.2 Employees.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "iii. Describe the methodologies and assumptions used to compile the data, including whether the numbers are reported",
+    "question_external_id": "eBFLz_eQ",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Text",
+            "columns": "60"
+          },
+          "label": "The organization’s activities, products, services, and markets served",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Text",
+            "columns": "60"
+          },
+          "label": "The organization’s supply chain",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "2.2 Employees.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. Report contextual information necessary to understand the data reported under 2.1-i and 2.1-ii",
+    "question_external_id": "SYCX0f4j",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "2.2 Employees.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "v. Describe significant fluctuations in the number of employees during the reporting period and between reporting periods.",
+    "question_external_id": "Q3lC-lrE",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "2.2 Employees.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "i. Report the total number of workers who are not employees and whose work is controlled by the organization",
+    "question_external_id": "IbGFWAiX",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0",
+            "required": true,
+            "placeholder": "Number",
+            "min": "0",
+            "disabled": false
+          },
+          "label": "Total number of workers",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Type of worker",
+          "field": "value2"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Contractual relationship with the organization",
+          "field": "value3"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Type of work they perform",
+          "field": "value4"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "2.3 Workers who are not employees",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Describe the methodologies and assumptions used to compile the data, including whether the number of workers who are not employees is reported",
+    "question_external_id": "zd99hOKv",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "In head count, full-time equivalent (FTE), or using another methodology",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "At the end of the reporting period, as an average across the reporting period, or using another methodology",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 11,
+    "question_title": "2.3 Workers who are not employees",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Describe significant fluctuations in the number of workers who are not employees during the reporting period and between reporting periods.",
+    "question_external_id": "nr7AsHZX",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "In head count, full-time equivalent (FTE), or using another methodology",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 12,
+    "question_title": "2.3 Workers who are not employees",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yJ_8y_YL",
+    "questionnaire_section_sequence": 2,
+    "questionnaire_section_title": "2. Activities and workers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Describe its governance structure, including committees of the highest governance body.",
+    "question_external_id": "#NAME?",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "3.1 Governance structure and composition.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "ii. list the committees of the highest governance body that are responsible for decision making on and overseeing the management of the organization’s impacts on the economy, environment, and people.",
+    "question_external_id": "DfU6hIOp",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "List the committees of the highest governance body",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "3.1 Governance structure and composition.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Describe the composition of the highest governance body and its committees",
+    "question_external_id": "C5BIrIBE",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "3.1 Governance structure and composition.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The nomination and selection processes for the highest governance body and its committees.",
+    "question_external_id": "Cc4q61Xy",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "3.2 Nomination and selection of the highest governance body",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Describe the criteria used for nominating and selecting highest governance body members.",
+    "question_external_id": "DFToqyq9",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether and how views of stakeholders, diversity, independence, competencies relevant to the impacts of the organization",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "3.2 Nomination and selection of the highest governance body",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Report whether the chair of the highest governance body is also a senior executive in the organization",
+    "question_external_id": "rmimzLdN",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "3.3 Chair of the highest governance body.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. If the chair is also a senior executive, explain their function within the organization’s management, the reasons for this arrangement, and how conflicts of interest are prevented and mitigated.",
+    "question_external_id": "NtM80mKz",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "3.3 Chair of the highest governance body.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Describe the role of the highest governance body and of senior executives in developing, approving, and updating the organization’s purpose, value or mission statements, strategies, policies, and goals related to sustainable development.",
+    "question_external_id": "ZqzEc_g-",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "3.4 Role of the highest governance body in overseeing the management of impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Describe the role of the highest governance body in overseeing the organization’s due diligence and other processes to identify and manage the organization’s impacts on the economy, environment, and people",
+    "question_external_id": "XNcKR_TV",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether and how the highest governance body engages",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "How the highest governance body considers the outcomes of these processes",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "3.4 Role of the highest governance body in overseeing the management of impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Describe the role of the highest governance body in reviewing the effectiveness of the organization’s processes as described in 3.4-ii, and report the frequency of this review.",
+    "question_external_id": "mN7b5ItU",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "3.4 Role of the highest governance body in overseeing the management of impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe how the highest governance body delegates responsibility for managing the organization’s impacts on the economy, environment, and people.",
+    "question_external_id": "i4QqtPPZ",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether it has appointed any senior executives with responsibility for the management of impacts",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether it has delegated responsibility for the management of impacts to other employees.",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 11,
+    "question_title": "3.5 Delegation of responsibility for managing impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Describe the process and frequency for senior executives or other employees to report back to the highest governance body on the management of the organization’s impacts on the economy, environment, and people.",
+    "question_external_id": "MOOGoXoc",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether it has appointed any senior executives with responsibility for the management of impacts",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 12,
+    "question_title": "3.5 Delegation of responsibility for managing impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Report whether the highest governance body is responsible for reviewing and approving the reported information, including the organization’s material topics, and if so, describe the process for reviewing and approving the information.",
+    "question_external_id": "pvPZCAyU",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "5",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether it has appointed any senior executives with responsibility for the management of impacts",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 13,
+    "question_title": "3.6 Role of the highest governance body in sustainability reporting.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. If the highest governance body is not responsible for reviewing and approving the reported information, including the organization’s material topics, explain the reason for this.",
+    "question_external_id": "bCo79S0k",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether it has appointed any senior executives with responsibility for the management of impacts",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 14,
+    "question_title": "3.6 Role of the highest governance body in sustainability reporting.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Describe the processes for the highest governance body to ensure that conflicts of interest are prevented and mitigated",
+    "question_external_id": "CXzMZo-H",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "5",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 15,
+    "question_title": "3.7 Conflicts of interest.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Report whether conflicts of interest are disclosed to stakeholders, including, at a minimum, conflicts of interest relating to: <br><br>i. cross-board membership; <br>ii. cross-shareholding with suppliers and other stakeholders; <br>iii. existence of controlling shareholders; <br>iv. related parties, their relationships, transactions, and outstanding balances.",
+    "question_external_id": "zj0fCjwJ",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 16,
+    "question_title": "3.7 Conflicts of interest.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Describe whether and how critical concerns are communicated to the highest governance body.",
+    "question_external_id": "8M38CvKP",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 17,
+    "question_title": "3.8 Communication of critical concerns.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "ii. Report the total number and the nature of critical concerns that were communicated to the highest governance body",
+    "question_external_id": "qYJKNlmO",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Number"
+          },
+          "label": "Total number critical concerns",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Nature of critical concerns",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 18,
+    "question_title": "3.8 Communication of critical concerns.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Report measures taken to advance the collective knowledge, skills, and experience of the highest governance body on sustainable development.",
+    "question_external_id": "2gAIakOE",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 19,
+    "question_title": "3.9 Collective knowledge of the highest governance body",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people.",
+    "question_external_id": "v7sWLAjN",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 20,
+    "question_title": "3.10 Evaluation of the performance of the highest governance body.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. The evaluations are independent or not, and the frequency of the evaluations.",
+    "question_external_id": "tdvZ0DA4",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "The evaluations are independent",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "The frequency of the evaluations",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 21,
+    "question_title": "3.10 Evaluation of the performance of the highest governance body.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iii. Describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices.",
+    "question_external_id": "ROi34XHR",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 22,
+    "question_title": "3.10 Evaluation of the performance of the highest governance body.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe the remuneration policies for members of the highest governance body and senior executives",
+    "question_external_id": "d4dLf0UZ",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Fixed pay",
+          "field": "value2"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Variable pay",
+          "field": "value3"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Sign-on bonuses or recruitment incentive payments",
+          "field": "value4"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Termination payments",
+          "field": "value5"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Text",
+            "columns": "60"
+          },
+          "label": "Clawbacks",
+          "field": "value6"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Text",
+            "columns": "60"
+          },
+          "label": "Retirement benefits",
+          "field": "value7"
+        }
+      ]
+    },
+    "question_sequence": 23,
+    "question_title": "3.11 Remuneration policies.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Describe how the remuneration policies for members of the highest governance body and senior executives relate to their objectives and performance in relation to the management of the organization’s impacts on the economy, environment, and people.",
+    "question_external_id": "Gqmztxi_",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 24,
+    "question_title": "3.11 Remuneration policies.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "predicator_question_answer",
+    "question_description": "i. Describe the process for designing its remuneration policies and for determining remuneration.",
+    "question_external_id": "NZu5jZLi",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Independent highest governance body members",
+              "Independent remuneration committee oversees"
+            ]
+          },
+          "label": "The process for determining remuneration",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "How the views of stakeholders (including shareholders) regarding remuneration are sought and taken into consideration",
+          "field": "value2"
+        },
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "Whether remuneration consultants are involved in determining remuneration",
+          "field": "value3"
+        },
+        {
+          "type": "conditional",
+          "field": "Yes",
+          "compare_field": "value3",
+          "comparison_operation": "equal to",
+          "compare_value": "Yes",
+          "render_class": "single_column_multi_input_single_answer",
+          "schema": {
+            "inputs": [
+              {
+                "type": "text",
+                "props": {
+                  "required": true,
+                  "placeholder": "Enter Text"
+                },
+                "label": "Whether they are independent of the organization, its highest governance body and senior executives",
+                "field": "value1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 25,
+    "question_title": "3.12 Process to determine remuneration.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Report the results of votes of stakeholders (including shareholders) on remuneration policies and proposals.",
+    "question_external_id": "mIE8j5af",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 26,
+    "question_title": "3.12 Process to determine remuneration.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual total compensation for all employees(excluding the highest-paid individual)",
+    "question_external_id": "AeWw75hj",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Total compensation for the organization's highest paid-individual",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Median annual total compensation for all of the organization's employees excluding the highest-paid individual",
+          "field": "value2"
+        },
+        {
+          "type": "derived",
+          "props": {
+            "step": "0.000000000001",
+            "disabled": true
+          },
+          "label": "The annual total compensation ratio",
+          "field": "value3",
+          "calculate": {
+            "operation": "Divide",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 27,
+    "question_title": "3.13 Annual total compensation ratio.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual).",
+    "question_external_id": "RkMAxv7o",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Percentage",
+            "disabled": false
+          },
+          "label": "Percentage increase in annual total compensation for the organization's highest-paid individual",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Median percentage increase in annual total compensation for all of the organization's employees excluding the highest-paid individual",
+          "field": "value2"
+        },
+        {
+          "type": "derived",
+          "props": {
+            "disabled": true
+          },
+          "label": "The change in the annual total compensation ratio",
+          "field": "value3",
+          "calculate": {
+            "operation": "Divide",
+            "fields": [
+              "value1",
+              "value2"
+            ]
+          }
+        }
+      ]
+    },
+    "question_sequence": 28,
+    "question_title": "3.13 Annual total compensation ratio.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Report contextual information necessary to understand the data and how the data has been compiled.",
+    "question_external_id": "ITzmtz_Y",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 29,
+    "question_title": "3.13 Annual total compensation ratio.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "GJbUWqny",
+    "questionnaire_section_sequence": 3,
+    "questionnaire_section_title": "3. Governance",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Report a statement from the highest governance body or most senior executive of the organization about the relevance of sustainable development to the organization and its strategy for contributing to sustainable development.",
+    "question_external_id": "Msnn991_",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "4.1 Statement on sustainable development strategy.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe its policy commitments for responsible business conduct.",
+    "question_external_id": "0PyXwf8Z",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The authoritative intergovernmental instruments that the commitments reference",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether the commitments stipulate conducting due diligence",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether the commitments stipulate applying the precautionary principle",
+          "field": "value3"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Whether the commitments stipulate respecting human rights",
+          "field": "value4"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "4.2 Policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Describe its specific policy commitment to respect human rights.",
+    "question_external_id": "_dhMQItr",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The internationally recognized human rights that the commitment covers",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "The categories of stakeholders, including at-risk or vulnerable groups, that the organization gives particular attention to in the commitment",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "4.2 Policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "iii. Provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, explain the reason.",
+    "question_external_id": "zomsX6ed",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Links",
+            "columns": "60"
+          },
+          "label": "Provide links to the policy commitments if publicly available",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Policy commitments are not publicly available, explain the reason.",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 4,
+    "question_title": "4.2 Policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. Report the level at which each of the policy commitments was approved within the organization, including whether this is the most senior level.",
+    "question_external_id": "WcdiMEAO",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 5,
+    "question_title": "4.2 Policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "v. Report the extent to which the policy commitments apply to the organization’s activities and to its business relationships.",
+    "question_external_id": "nlVx7k6i",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 6,
+    "question_title": "4.2 Policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "vi. Describe how the policy commitments are communicated to workers, business partners, and other relevant parties.",
+    "question_external_id": "pv-ldKex",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 7,
+    "question_title": "4.2 Policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe how it embeds each of its policy commitments for responsible business conduct throughout its activities and business relationships",
+    "question_external_id": "-ecB-3WD",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "How it allocates responsibility to implement the commitments across different levels within the organization",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "How it integrates the commitments into organizational strategies, operational policies, and operational procedures",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "How it implements its commitments with and through its business relationships",
+          "field": "value3"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Training that the organization provides on implementing the commitments",
+          "field": "value4"
+        }
+      ]
+    },
+    "question_sequence": 8,
+    "question_title": "4.3 Embedding policy commitments.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe its commitments to provide for or cooperate in the remediation of negative impacts that the organization identifies it has caused or contributed to.",
+    "question_external_id": "pGIONWHh",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 9,
+    "question_title": "4.4 Processes to remediate negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Describe its approach to identify and address grievances, including the grievance mechanisms that the organization has established or participates in.",
+    "question_external_id": "#REF!",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 10,
+    "question_title": "4.4 Processes to remediate negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "iii. Describe other processes by which the organization provides for or cooperates in the remediation of negative impacts that it identifies it has caused or contributed to.",
+    "question_external_id": "gvwm3xt1",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 11,
+    "question_title": "4.4 Processes to remediate negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "iv. Describe how the stakeholders who are the intended users of the grievance mechanisms are involved in the design, review, operation, and improvement of these mechanisms.",
+    "question_external_id": "Gz_P3lnJ",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 12,
+    "question_title": "4.4 Processes to remediate negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "v. Describe how the organization tracks the effectiveness of the grievance mechanisms and other remediation processes, and report examples of their effectiveness, including stakeholder feedback.",
+    "question_external_id": "G5XOvm_j",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 13,
+    "question_title": "4.4 Processes to remediate negative impacts.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe the mechanisms for individuals.",
+    "question_external_id": "Dk59yajg",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Seek advice on implementing the organization’s policies and practices for responsible business conduct",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "Raise concerns about the organization’s business conduct",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 14,
+    "question_title": "4.5 Mechanisms for seeking advice and raising concerns.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Report the total number of significant instances of non-compliance with laws and regulations.",
+    "question_external_id": "jdZHHHr8",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Total number by instances for which fines were incurred",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Total number by instances for which non-monetary sanctions were incurred.",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 15,
+    "question_title": "4.6 Compliance with laws and regulations.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "ii. Report the total number and the monetary value of fines for instances of non-compliance with laws and regulations that were paid.",
+    "question_external_id": "NGK9e0i4",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Fines for instances of non-compliance with laws and regulations that occurred in the current reporting period",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Fines for instances of non-compliance with laws and regulations that occurred in previous reporting periods",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 16,
+    "question_title": "4.6 Compliance with laws and regulations.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Describe the significant instances of non-compliance",
+    "question_external_id": "cvdLKrXj",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 17,
+    "question_title": "4.6 Compliance with laws and regulations.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. Describe how it has determined significant instances of non-compliance.",
+    "question_external_id": "w3oNugJW",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 18,
+    "question_title": "4.6 Compliance with laws and regulations.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Report industry associations, other membership associations, and national or international advocacy organizations in which it participates in a significant role.",
+    "question_external_id": "SZUe-07E",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 19,
+    "question_title": "4.7 Membership associations.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Gn2d7BZc",
+    "questionnaire_section_sequence": 4,
+    "questionnaire_section_title": "4. Strategy, policies and practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Describe its approach to engaging with stakeholders.",
+    "question_external_id": "oZzMbccs",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "The categories of stakeholders it engages with",
+          "field": "value1"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "How they are identified",
+          "field": "value2"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "The purpose of the stakeholder engagement",
+          "field": "value3"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "How the organization seeks to ensure meaningful engagement with stakeholders",
+          "field": "value4"
+        }
+      ]
+    },
+    "question_sequence": 1,
+    "question_title": "5.1 Approach to stakeholder engagement.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "gvfbmuod",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Stakeholder engagement.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "i. Report the percentage of total employees covered by collective bargaining agreements",
+    "question_external_id": "DluQ73RU",
+    "question_schema": {
+      "metadata": {},
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Number of employees covered by collective bargaining agreements",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": false,
+            "placeholder": "Value",
+            "disabled": false
+          },
+          "label": "Percentage of total employees",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": 2,
+    "question_title": "5.2 Collective bargaining agreements.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "gvfbmuod",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Stakeholder engagement.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": 1,
+    "card_standards": "GRI 2: General Disclosures",
+    "card_title": "General Disclosures",
+    "esg_type": "Universal Standards :- GRI",
+    "is_card_active": 1,
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. For employees not covered by collective bargaining agreements, report whether the oganization determines their working conditions and terms of employment based on collective bargaining agreements that cover its other employees or based on collective bargaining agreements from other organizations.",
+    "question_external_id": "g_uuRGuh",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value1"
+        }
+      ]
+    },
+    "question_sequence": 3,
+    "question_title": "5.2 Collective bargaining agreements.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "gvfbmuod",
+    "questionnaire_section_sequence": 5,
+    "questionnaire_section_title": "5. Stakeholder engagement.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]
