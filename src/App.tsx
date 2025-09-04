@@ -29,6 +29,7 @@ import GRI308SupplierEnvironmentalAssessment from './pages/TopicStandards2025/En
 import GRI101Biodiversity from './pages/TopicStandards2025/Environmental/GRI101Biodiversity';
 import GRI102Climate from './pages/TopicStandards2025/Environmental/GRI102Climate';
 import GRI103Energy from './pages/TopicStandards2025/Environmental/GRI103Energy';
+import GRI14MiningSectorEnvironmental from './pages/TopicStandards2025/Environmental/GRI14MiningSectorEnvironmental';
 
 // Governance Standards
 import GRI201EconomicPerformance from './pages/TopicStandards2025/Governance/GRI201EconomicPerformance';
@@ -95,6 +96,7 @@ function App() {
         <Route path="/gri/:reportId/gri-101-biodiversity" element={<GRI101Biodiversity />} />
         <Route path="/gri/:reportId/gri-102-climate" element={<GRI102Climate />} />
         <Route path="/gri/:reportId/gri-103-energy" element={<GRI103Energy />} />
+        <Route path="/gri/:reportId/gri-14-mining-sector-environmental" element={<GRI14MiningSectorEnvironmental />} />
         
         {/* Governance Standards Routes */}
         <Route path="/gri/:reportId/gri-201-economic-performance" element={<GRI201EconomicPerformance />} />

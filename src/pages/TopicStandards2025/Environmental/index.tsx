@@ -129,6 +129,25 @@ const Environmental: React.FC = () => {
             <button className="expand-btn">›</button>
           </div>
         </div>
+
+        {/* Mining Sector Specific Environmental Disclosures - Only visible for GRI-14 */}
+        {reportId === 'GRI-14' && (
+          <>
+            <div className="section-divider">
+              <div className="section-title">Mining Sector Specific Environmental Disclosures</div>
+            </div>
+
+            <div className="gri-standard-item" onClick={() => handleStandardClick('gri-14-mining-sector-environmental')}>
+              <div className="gri-standard-content">
+                <div className="gri-standard-title">GRI 14: Mining Sector - Environmental Disclosures</div>
+                <div className="gri-standard-description">Land disturbance and rehabilitation, mine closure, waste and hazardous materials management</div>
+              </div>
+              <div className="gri-standard-action">
+                <button className="expand-btn">›</button>
+              </div>
+            </div>
+          </>
+        )}
       </div>
     </div>
   );
