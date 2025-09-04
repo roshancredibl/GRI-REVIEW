@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
+import { ReportId } from '../../../types/report.types';
 import InfoIcon from '../../../components/InfoIcon';
 import { useGuidance } from '../../../hooks/useGuidance';
 import GuidanceSidebar from '../../../components/GuidanceSidebar';
@@ -336,6 +337,7 @@ interface MitigationActions {
 
 const GRI101Biodiversity: React.FC = () => {
   const navigate = useNavigate();
+  const { reportId } = useParams<{ reportId: ReportId }>();
   const { guidanceState, openGuidance, closeGuidance } = useGuidance();
   const [priorDisclosure, setPriorDisclosure] = useState<string>('');
   
@@ -1465,7 +1467,9 @@ const GRI101Biodiversity: React.FC = () => {
   };
 
   const handleBackClick = () => {
-    navigate('/topic-standards-2025/environmental');
+    if (reportId) {
+      navigate(`/gri/${reportId}/topic-standards-2025/environmental`);
+    }
   };
 
   return (

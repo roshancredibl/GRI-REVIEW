@@ -1,22 +1,23 @@
 import React, { useState, useEffect, Suspense } from 'react';
-import { useNavigate } from 'react-router-dom';
 import QuestionnaireRenderer from '../../../esg/render/QuestionnaireRenderer';
 import { loadQuestionnaireFromStem } from '../../../esg/parsers/ingestQuestionnaire';
 import { Questionnaire, ParseError } from '../../../esg/models/questionnaire.types';
 import { useGuidance } from '../../../hooks/useGuidance';
+import { useReportPage } from '../../../hooks/useReportPage';
 import GuidanceSidebar from '../../../components/GuidanceSidebar';
 
 const GRI204ProcurementPractices: React.FC = () => {
-  const navigate = useNavigate();
   const [questionnaire, setQuestionnaire] = useState<Questionnaire | null>(null);
   const [errors, setErrors] = useState<ParseError[]>([]);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const { guidanceState, openGuidance, closeGuidance } = useGuidance();
-
-  const handleBackClick = () => {
-    navigate('/topic-standards-2025/governance');
-  };
+  
+  // Use the new report page hook for data isolation
+  const { reportId, answers, saveAnswers, handleBackClick } = useReportPage({
+    questionnaireId: 'GRI204',
+    backPath: 'topic-standards-2025/governance'
+  });
 
   useEffect(() => {
     const loadQuestionnaire = async () => {
@@ -41,9 +42,9 @@ const GRI204ProcurementPractices: React.FC = () => {
     loadQuestionnaire();
   }, []);
 
-  const handleAnswersChange = (answers: Record<string, any>) => {
-    console.log('GRI204 answers updated:', answers);
-    // Here you could save to localStorage, send to API, etc.
+  const handleAnswersChange = (newAnswers: Record<string, any>) => {
+    console.log(`GRI204 answers updated for report ${reportId}:`, newAnswers);
+    saveAnswers(newAnswers);
   };
 
   if (loadError) {
@@ -92,6 +93,7 @@ const GRI204ProcurementPractices: React.FC = () => {
               onAnswersChange={handleAnswersChange}
               showSummary={true}
               onGuidanceOpen={openGuidance}
+              initialAnswers={answers}
             />
           ) : loading ? (
             <div className="loading-container">

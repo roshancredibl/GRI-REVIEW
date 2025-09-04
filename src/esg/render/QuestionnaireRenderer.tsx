@@ -12,6 +12,7 @@ interface QuestionnaireRendererProps {
   title?: string;
   showSummary?: boolean;
   onGuidanceOpen?: (text: string) => void;
+  initialAnswers?: Record<string, any>;
 }
 
 const QuestionnaireRenderer: React.FC<QuestionnaireRendererProps> = ({
@@ -22,14 +23,20 @@ const QuestionnaireRenderer: React.FC<QuestionnaireRendererProps> = ({
   onGuidanceOpen,
   loading = false,
   title,
-  showSummary = false
+  showSummary = false,
+  initialAnswers = {}
 }) => {
-  const [allAnswers, setAllAnswers] = useState<Record<string, any>>({});
+  const [allAnswers, setAllAnswers] = useState<Record<string, any>>(initialAnswers);
   const [showErrors, setShowErrors] = useState(false);
 
   useEffect(() => {
     onAnswersChange?.(allAnswers);
   }, [allAnswers, onAnswersChange]);
+
+  // Update state when initialAnswers change
+  useEffect(() => {
+    setAllAnswers(initialAnswers);
+  }, [initialAnswers]);
 
   const handleSectionAnswersChange = (sectionId: string, sectionAnswers: Record<string, any>) => {
     const newAnswers = {

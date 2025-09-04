@@ -1,56 +1,26 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
-interface Report {
-  id: string;
-  name: string;
-  dateCreated: string;
-  period: string;
-  status: 'Draft' | 'Published' | 'In Review';
-}
+import { useReportContext } from '../contexts/ReportContext';
+import { Report, ReportId } from '../types/report.types';
 
 const GRIReportsList: React.FC = () => {
   const navigate = useNavigate();
+  const { getAllReports } = useReportContext();
+  const [reports, setReports] = useState<Report[]>([]);
 
-  // Mock data based on the image
-  const reports: Report[] = [
-    {
-      id: '1',
-      name: 'GRI 2025',
-      dateCreated: '02 Jun, 2025',
-      period: '2025',
-      status: 'Draft'
-    },
-    {
-      id: '2',
-      name: 'TKM',
-      dateCreated: '22 Aug, 2025',
-      period: 'FY 2024 - 2025',
-      status: 'Draft'
-    },
-    {
-      id: '3',
-      name: 'GRI - 2023',
-      dateCreated: '08 Apr, 2024',
-      period: '2023',
-      status: 'Draft'
-    },
-    {
-      id: '4',
-      name: 'Demo Report',
-      dateCreated: '07 Apr, 2025',
-      period: '2022',
-      status: 'Draft'
-    }
-  ];
+  useEffect(() => {
+    // Load all reports using the new data manager
+    const allReports = getAllReports();
+    setReports(allReports);
+  }, [getAllReports]);
 
   const handleCreateNewReport = () => {
     navigate('/gri/create-new-report');
   };
 
   const handleViewReport = (reportId: string) => {
-    // Navigate to the dashboard for the specific report
-    navigate('/gri/dashboard', { state: { reportId } });
+    // Navigate to the dashboard for the specific report using URL params
+    navigate(`/gri/${reportId}/dashboard`);
   };
 
   const handleExportReport = (reportId: string) => {

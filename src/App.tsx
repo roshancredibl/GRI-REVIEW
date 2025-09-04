@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import GRIReportsList from './pages/GRIReportsList';
 import CreateNewReport from './pages/CreateNewReport';
 import Dashboard from './pages/Dashboard';
+import { ReportProvider } from './contexts/ReportContext';
 
 // Main Category Pages
 import UniversalStandards from './pages/UniversalStandards';
@@ -65,65 +66,67 @@ function App() {
   const isHomePage = location.pathname === '/';
 
   return (
-    <div className="App">
-      <Header />
-      {!isHomePage && <Sidebar />}
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/gri" element={<GRIReportsList />} />
-        <Route path="/gri/create-new-report" element={<CreateNewReport />} />
-        <Route path="/gri/dashboard" element={<Dashboard />} />
-        <Route path="/universal-standards" element={<UniversalStandards />} />
-        <Route path="/topic-standards-2025/environmental" element={<Environmental />} />
-        <Route path="/topic-standards-2025/governance" element={<Governance />} />
-        <Route path="/topic-standards-2025/social" element={<Social />} />
+    <ReportProvider>
+      <div className="App">
+        <Header />
+        {!isHomePage && <Sidebar />}
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/gri" element={<GRIReportsList />} />
+          <Route path="/gri/create-new-report" element={<CreateNewReport />} />
+          <Route path="/gri/:reportId/dashboard" element={<Dashboard />} />
+          <Route path="/gri/:reportId/universal-standards" element={<UniversalStandards />} />
+          <Route path="/gri/:reportId/topic-standards-2025/environmental" element={<Environmental />} />
+          <Route path="/gri/:reportId/topic-standards-2025/governance" element={<Governance />} />
+          <Route path="/gri/:reportId/topic-standards-2025/social" element={<Social />} />
         
         {/* Universal Standards Routes */}
-        <Route path="/gri-2-general-disclosures" element={<GRI2GeneralDisclosures />} />
-        <Route path="/gri-3-material-topic" element={<GRI3MaterialTopic />} />
+        <Route path="/gri/:reportId/gri-2-general-disclosures" element={<GRI2GeneralDisclosures />} />
+        <Route path="/gri/:reportId/gri-3-material-topic" element={<GRI3MaterialTopic />} />
         
         {/* Environmental Standards Routes */}
-        <Route path="/gri-301-materials" element={<GRI301Materials />} />
-        <Route path="/gri-302-energy" element={<GRI302Energy />} />
-        <Route path="/gri-303-water" element={<GRI303Water />} />
-        <Route path="/gri-304-biodiversity" element={<GRI304Biodiversity />} />
-        <Route path="/gri-305-emission" element={<GRI305Emission />} />
-        <Route path="/gri-306-waste" element={<GRI306Waste />} />
-        <Route path="/gri-308-supplier-environmental-assessment" element={<GRI308SupplierEnvironmentalAssessment />} />
-        <Route path="/gri-101-biodiversity" element={<GRI101Biodiversity />} />
-        <Route path="/gri-102-climate" element={<GRI102Climate />} />
-        <Route path="/gri-103-energy" element={<GRI103Energy />} />
+        <Route path="/gri/:reportId/gri-301-materials" element={<GRI301Materials />} />
+        <Route path="/gri/:reportId/gri-302-energy" element={<GRI302Energy />} />
+        <Route path="/gri/:reportId/gri-303-water" element={<GRI303Water />} />
+        <Route path="/gri/:reportId/gri-304-biodiversity" element={<GRI304Biodiversity />} />
+        <Route path="/gri/:reportId/gri-305-emission" element={<GRI305Emission />} />
+        <Route path="/gri/:reportId/gri-306-waste" element={<GRI306Waste />} />
+        <Route path="/gri/:reportId/gri-308-supplier-environmental-assessment" element={<GRI308SupplierEnvironmentalAssessment />} />
+        <Route path="/gri/:reportId/gri-101-biodiversity" element={<GRI101Biodiversity />} />
+        <Route path="/gri/:reportId/gri-102-climate" element={<GRI102Climate />} />
+        <Route path="/gri/:reportId/gri-103-energy" element={<GRI103Energy />} />
         
         {/* Governance Standards Routes */}
-        <Route path="/gri-201-economic-performance" element={<GRI201EconomicPerformance />} />
-        <Route path="/gri-202-market-presence-impact" element={<GRI202MarketPresenceImpact />} />
-        <Route path="/gri-203-indirect-economic-impacts" element={<GRI203IndirectEconomicImpacts />} />
-        <Route path="/gri-204-procurement-practices" element={<GRI204ProcurementPractices />} />
-        <Route path="/gri-205-anti-corruption" element={<GRI205AntiCorruption />} />
-        <Route path="/gri-206-anti-competitive-behavior" element={<GRI206AntiCompetitiveBehavior />} />
-        <Route path="/gri-207-tax" element={<GRI207Tax />} />
+        <Route path="/gri/:reportId/gri-201-economic-performance" element={<GRI201EconomicPerformance />} />
+        <Route path="/gri/:reportId/gri-202-market-presence-impact" element={<GRI202MarketPresenceImpact />} />
+        <Route path="/gri/:reportId/gri-203-indirect-economic-impacts" element={<GRI203IndirectEconomicImpacts />} />
+        <Route path="/gri/:reportId/gri-204-procurement-practices" element={<GRI204ProcurementPractices />} />
+        <Route path="/gri/:reportId/gri-205-anti-corruption" element={<GRI205AntiCorruption />} />
+        <Route path="/gri/:reportId/gri-206-anti-competitive-behavior" element={<GRI206AntiCompetitiveBehavior />} />
+        <Route path="/gri/:reportId/gri-207-tax" element={<GRI207Tax />} />
         
         {/* Social Standards Routes */}
-        <Route path="/gri-401-employment" element={<GRI401Employment />} />
-        <Route path="/gri-402-labor" element={<GRI402Labor />} />
-        <Route path="/gri-403-occupational-health-and-safety" element={<GRI403OccupationalHealthAndSafety />} />
-        <Route path="/gri-404-training-and-education" element={<GRI404TrainingAndEducation />} />
-        <Route path="/gri-405-diversity-and-equal-opportunity" element={<GRI405DiversityAndEqualOpportunity />} />
-        <Route path="/gri-406-non-discrimination" element={<GRI406NonDiscrimination />} />
-        <Route path="/gri-407-freedom-of-association-and-collective-bargaining" element={<GRI407FreedomOfAssociationAndCollectiveBargaining />} />
-        <Route path="/gri-408-child-labor" element={<GRI408ChildLabor />} />
-        <Route path="/gri-409-forced-or-compulsory-labor" element={<GRI409ForcedOrCompulsoryLabor />} />
-        <Route path="/gri-410-security-practices" element={<GRI410SecurityPractices />} />
-        <Route path="/gri-411-rights-of-indigenous-peoples" element={<GRI411RightsOfIndigenousPeoples />} />
-        <Route path="/gri-414-supplier-social-assessment" element={<GRI414SupplierSocialAssessment />} />
-        <Route path="/gri-415-public-policy" element={<GRI415PublicPolicy />} />
-        <Route path="/gri-416-customer-health-and-safety" element={<GRI416CustomerHealthAndSafety />} />
-        <Route path="/gri-417-marketing-and-labeling" element={<GRI417MarketingAndLabeling />} />
-        <Route path="/gri-418-customer-privacy" element={<GRI418CustomerPrivacy />} />
+        <Route path="/gri/:reportId/gri-401-employment" element={<GRI401Employment />} />
+        <Route path="/gri/:reportId/gri-402-labor" element={<GRI402Labor />} />
+        <Route path="/gri/:reportId/gri-403-occupational-health-and-safety" element={<GRI403OccupationalHealthAndSafety />} />
+        <Route path="/gri/:reportId/gri-404-training-and-education" element={<GRI404TrainingAndEducation />} />
+        <Route path="/gri/:reportId/gri-405-diversity-and-equal-opportunity" element={<GRI405DiversityAndEqualOpportunity />} />
+        <Route path="/gri/:reportId/gri-406-non-discrimination" element={<GRI406NonDiscrimination />} />
+        <Route path="/gri/:reportId/gri-407-freedom-of-association-and-collective-bargaining" element={<GRI407FreedomOfAssociationAndCollectiveBargaining />} />
+        <Route path="/gri/:reportId/gri-408-child-labor" element={<GRI408ChildLabor />} />
+        <Route path="/gri/:reportId/gri-409-forced-or-compulsory-labor" element={<GRI409ForcedOrCompulsoryLabor />} />
+        <Route path="/gri/:reportId/gri-410-security-practices" element={<GRI410SecurityPractices />} />
+        <Route path="/gri/:reportId/gri-411-rights-of-indigenous-peoples" element={<GRI411RightsOfIndigenousPeoples />} />
+        <Route path="/gri/:reportId/gri-414-supplier-social-assessment" element={<GRI414SupplierSocialAssessment />} />
+        <Route path="/gri/:reportId/gri-415-public-policy" element={<GRI415PublicPolicy />} />
+        <Route path="/gri/:reportId/gri-416-customer-health-and-safety" element={<GRI416CustomerHealthAndSafety />} />
+        <Route path="/gri/:reportId/gri-417-marketing-and-labeling" element={<GRI417MarketingAndLabeling />} />
+        <Route path="/gri/:reportId/gri-418-customer-privacy" element={<GRI418CustomerPrivacy />} />
 
       </Routes>
       {!isHomePage && <SupportButton />}
-    </div>
+      </div>
+    </ReportProvider>
   );
 }
 

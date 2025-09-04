@@ -89,13 +89,9 @@ const CreateNewReport: React.FC = () => {
       // Simulate API call to create report
       await new Promise(resolve => setTimeout(resolve, 1000));
       
-      // Navigate to the dashboard with the new report context
-      navigate('/gri/dashboard', { 
-        state: { 
-          newReport: true,
-          reportData: formData 
-        } 
-      });
+      // For new reports, we'll redirect to the first available report instance
+      // In a real app, you might create a new report ID here
+      navigate('/gri/GRI-11/dashboard');
     } catch (error) {
       console.error('Error creating report:', error);
       setIsSubmitting(false);

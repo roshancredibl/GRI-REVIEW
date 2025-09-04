@@ -1,28 +1,25 @@
-import React from 'react';
-import { useNavigate, useLocation } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
+import { useReportContext } from '../contexts/ReportContext';
+import { ReportId } from '../types/report.types';
 
 const Dashboard: React.FC = () => {
   const navigate = useNavigate();
-  const location = useLocation();
-  
-  // Get the reportId from navigation state
-  const reportId = location.state?.reportId;
-  
-  // Get report name based on reportId
-  const getReportName = (id: string) => {
-    const reports = {
-      '1': 'GRI 2025',
-      '2': 'TKM', 
-      '3': 'GRI - 2023',
-      '4': 'Demo Report'
-    };
-    return reports[id as keyof typeof reports] || 'GRI Report';
-  };
-  
-  const currentReportName = reportId ? getReportName(reportId) : 'GRI';
+  const { reportId } = useParams<{ reportId: ReportId }>();
+  const { setCurrentReport, currentReport } = useReportContext();
+
+  useEffect(() => {
+    if (reportId) {
+      setCurrentReport(reportId);
+    }
+  }, [reportId, setCurrentReport]);
+
+  const currentReportName = currentReport?.name || 'GRI Report';
 
   const handleCardClick = (pageId: string) => {
-    navigate(`/${pageId}`);
+    if (reportId) {
+      navigate(`/gri/${reportId}/${pageId}`);
+    }
   };
 
   const handleBackToHome = () => {

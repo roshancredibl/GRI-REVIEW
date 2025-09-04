@@ -1,15 +1,21 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
+import { ReportId } from '../../../types/report.types';
 
 const Environmental: React.FC = () => {
   const navigate = useNavigate();
+  const { reportId } = useParams<{ reportId: ReportId }>();
 
   const handleBackClick = () => {
-    navigate('/gri/dashboard');
+    if (reportId) {
+      navigate(`/gri/${reportId}/dashboard`);
+    }
   };
 
   const handleStandardClick = (standardId: string) => {
-    navigate(`/${standardId}`);
+    if (reportId) {
+      navigate(`/gri/${reportId}/${standardId}`);
+    }
   };
 
   return (
