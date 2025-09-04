@@ -3547,7 +3547,7 @@ const GRI101Biodiversity: React.FC = () => {
                     </tr>
                   </tbody>
                 </table>
-              </div>
+            </div>
 
               <div className="form-group" style={{ marginTop: '20px' }}>
                 <label className="form-label">Organizational Chart Upload</label>
@@ -3583,7 +3583,7 @@ const GRI101Biodiversity: React.FC = () => {
                 }}>
                   <div style={{ marginBottom: '10px', fontSize: '14px', color: '#6c757d' }}>
                     Select countries with ABS regulations that apply to your operations:
-                  </div>
+              </div>
                   
                   {/* Multi-select checkboxes for countries */}
                   <div style={{ 
@@ -3681,7 +3681,7 @@ const GRI101Biodiversity: React.FC = () => {
                         <div>
                           <span style={{ fontWeight: '500', fontSize: '14px' }}>{item.label}</span>
                           <div style={{ fontSize: '12px', color: '#6c757d', marginTop: '2px' }}>{item.desc}</div>
-                        </div>
+              </div>
                       </label>
                       <div style={{ marginTop: '8px', marginLeft: '26px' }}>
                         <textarea
@@ -3842,7 +3842,7 @@ const GRI101Biodiversity: React.FC = () => {
                           <option value="refresher">Refresher Training</option>
                           <option value="specialized">Specialized/Technical</option>
                           <option value="other">Other</option>
-                        </select>
+                </select>
                       </td>
                       <td style={{ 
                         border: '1px solid #dee2e6', 
@@ -4192,7 +4192,7 @@ const GRI101Biodiversity: React.FC = () => {
                 />
               </div>
               
-              <div className="form-group">
+            <div className="form-group">
                 <label className="form-label">Assessment Methods Applied *</label>
                 <div style={{ 
                   border: '1px solid #ced4da', 
@@ -4202,7 +4202,7 @@ const GRI101Biodiversity: React.FC = () => {
                 }}>
                   <div style={{ marginBottom: '10px', fontSize: '14px', color: '#6c757d' }}>
                     Select all methods used to assess biodiversity impacts:
-                  </div>
+            </div>
                   
                   <div style={{ 
                     display: 'grid', 
@@ -4728,8 +4728,8 @@ const GRI101Biodiversity: React.FC = () => {
                     </div>
 
                     {/* Location Fields */}
-                    <div className="form-row">
-                      <div className="form-group">
+            <div className="form-row">
+              <div className="form-group">
                         <label className="form-label">Site Name *</label>
                         <input 
                           type="text" 
@@ -4739,8 +4739,8 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="Enter site name..."
                           required
                         />
-                      </div>
-                      <div className="form-group">
+              </div>
+              <div className="form-group">
                         <label className="form-label">Location / Coordinates *</label>
                         <input 
                           type="text" 
@@ -4750,8 +4750,8 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="e.g., 40.7128° N, 74.0060° W or City, Country"
                           required
                         />
-                      </div>
-                      <div className="form-group">
+              </div>
+              <div className="form-group">
                         <label className="form-label">Size (hectares) *</label>
                         <input 
                           type="number" 
@@ -4763,9 +4763,9 @@ const GRI101Biodiversity: React.FC = () => {
                           step="0.01"
                           required
                         />
-                      </div>
-                    </div>
-                  </div>
+              </div>
+            </div>
+            </div>
                 ))}
               </div>
             )}
@@ -5029,7 +5029,7 @@ const GRI101Biodiversity: React.FC = () => {
             <div className="question-description">
               For each site reported under 101-5-a, report whether it is in or near an ecologically sensitive area, the distance to these areas, and whether these are:
             </div>
-            
+
             {/* Add Assessment Button */}
             <div style={{ marginBottom: '20px' }}>
               <button 
@@ -5121,18 +5121,18 @@ const GRI101Biodiversity: React.FC = () => {
                     </div>
 
                     {/* 5b i - Areas of biodiversity importance */}
-                    <div className="sub-question">
-                      <div className="sub-question-header">
-                        <div className="sub-question-number">5b i</div>
-                        <div className="sub-question-title">Areas of biodiversity importance</div>
-                        <InfoIcon 
-                          title="The organization should specify whether the areas of biodiversity importance are: • protected through legal or other effective means; • scientifically recognized for their importance to biodiversity; • important for species; • important for ecosystems; or • important for ecological connectivity."
-                          onClick={() => openGuidance("The organization should specify whether the areas of biodiversity importance are: • protected through legal or other effective means; • scientifically recognized for their importance to biodiversity; • important for species; • important for ecosystems; or • important for ecological connectivity.")}
-                        />
-                      </div>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">In/Near Sensitive Area</label>
+            <div className="sub-question">
+              <div className="sub-question-header">
+                <div className="sub-question-number">5b i</div>
+                <div className="sub-question-title">Areas of biodiversity importance</div>
+                <InfoIcon 
+                  title="The organization should specify whether the areas of biodiversity importance are: • protected through legal or other effective means; • scientifically recognized for their importance to biodiversity; • important for species; • important for ecosystems; or • important for ecological connectivity."
+                  onClick={() => openGuidance("The organization should specify whether the areas of biodiversity importance are: • protected through legal or other effective means; • scientifically recognized for their importance to biodiversity; • important for species; • important for ecosystems; or • important for ecological connectivity.")}
+                />
+              </div>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">In/Near Sensitive Area</label>
                           <select 
                             className="form-select"
                             value={assessment.biodiversityImportance.status}
@@ -5142,10 +5142,10 @@ const GRI101Biodiversity: React.FC = () => {
                             <option value="in">In</option>
                             <option value="near">Near</option>
                             <option value="no">No</option>
-                          </select>
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Distance to Area (km)</label>
+                  </select>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Distance to Area (km)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5155,19 +5155,19 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.1"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
                     {/* 5b ii - Areas of high ecosystem integrity */}
-                    <div className="sub-question">
-                      <div className="sub-question-header">
-                        <div className="sub-question-number">5b ii</div>
-                        <div className="sub-question-title">Areas of high ecosystem integrity</div>
-                      </div>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">In/Near Sensitive Area</label>
+            <div className="sub-question">
+              <div className="sub-question-header">
+                <div className="sub-question-number">5b ii</div>
+                <div className="sub-question-title">Areas of high ecosystem integrity</div>
+              </div>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">In/Near Sensitive Area</label>
                           <select 
                             className="form-select"
                             value={assessment.highEcosystemIntegrity.status}
@@ -5177,10 +5177,10 @@ const GRI101Biodiversity: React.FC = () => {
                             <option value="in">In</option>
                             <option value="near">Near</option>
                             <option value="no">No</option>
-                          </select>
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Distance to Area (km)</label>
+                  </select>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Distance to Area (km)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5190,19 +5190,19 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.1"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
                     {/* 5b iii - Areas of rapid decline in ecosystem integrity */}
-                    <div className="sub-question">
-                      <div className="sub-question-header">
-                        <div className="sub-question-number">5b iii</div>
-                        <div className="sub-question-title">Areas of rapid decline in ecosystem integrity</div>
-                      </div>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">In/Near Sensitive Area</label>
+            <div className="sub-question">
+              <div className="sub-question-header">
+                <div className="sub-question-number">5b iii</div>
+                <div className="sub-question-title">Areas of rapid decline in ecosystem integrity</div>
+              </div>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">In/Near Sensitive Area</label>
                           <select 
                             className="form-select"
                             value={assessment.rapidEcosystemDecline.status}
@@ -5212,10 +5212,10 @@ const GRI101Biodiversity: React.FC = () => {
                             <option value="in">In</option>
                             <option value="near">Near</option>
                             <option value="no">No</option>
-                          </select>
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Distance to Area (km)</label>
+                  </select>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Distance to Area (km)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5225,19 +5225,19 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.1"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
                     {/* 5b iv - Areas of high physical water risks */}
-                    <div className="sub-question">
-                      <div className="sub-question-header">
-                        <div className="sub-question-number">5b iv</div>
-                        <div className="sub-question-title">Areas of high physical water risks</div>
-                      </div>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">In/Near Sensitive Area</label>
+            <div className="sub-question">
+              <div className="sub-question-header">
+                <div className="sub-question-number">5b iv</div>
+                <div className="sub-question-title">Areas of high physical water risks</div>
+              </div>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">In/Near Sensitive Area</label>
                           <select 
                             className="form-select"
                             value={assessment.highWaterRisks.status}
@@ -5247,10 +5247,10 @@ const GRI101Biodiversity: React.FC = () => {
                             <option value="in">In</option>
                             <option value="near">Near</option>
                             <option value="no">No</option>
-                          </select>
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Distance to Area (km)</label>
+                  </select>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Distance to Area (km)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5260,19 +5260,19 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.1"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
                     {/* 5b v - Areas important for ecosystem services */}
-                    <div className="sub-question">
-                      <div className="sub-question-header">
-                        <div className="sub-question-number">5b v</div>
-                        <div className="sub-question-title">Areas important for ecosystem services to Indigenous Peoples, local communities, and other stakeholders</div>
-                      </div>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">In/Near Sensitive Area</label>
+            <div className="sub-question">
+              <div className="sub-question-header">
+                <div className="sub-question-number">5b v</div>
+                <div className="sub-question-title">Areas important for ecosystem services to Indigenous Peoples, local communities, and other stakeholders</div>
+              </div>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">In/Near Sensitive Area</label>
                           <select 
                             className="form-select"
                             value={assessment.ecosystemServicesImportance.status}
@@ -5282,10 +5282,10 @@ const GRI101Biodiversity: React.FC = () => {
                             <option value="in">In</option>
                             <option value="near">Near</option>
                             <option value="no">No</option>
-                          </select>
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Distance to Area (km)</label>
+                  </select>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Distance to Area (km)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5295,9 +5295,9 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.1"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
                   </div>
                 ))}
               </div>
@@ -5418,7 +5418,7 @@ const GRI101Biodiversity: React.FC = () => {
                     </div>
 
                     {/* Activities Description */}
-                    <div className="form-group">
+            <div className="form-group">
                       <label className="form-label">Activities Description *</label>
                       <textarea 
                         className="form-textarea" 
@@ -5428,7 +5428,7 @@ const GRI101Biodiversity: React.FC = () => {
                         rows={5}
                         required
                       />
-                    </div>
+            </div>
                   </div>
                 ))}
               </div>
@@ -5521,8 +5521,8 @@ const GRI101Biodiversity: React.FC = () => {
                     </div>
 
                     {/* Product Fields */}
-                    <div className="form-row">
-                      <div className="form-group">
+            <div className="form-row">
+              <div className="form-group">
                         <label className="form-label">Product/Service *</label>
                         <input 
                           type="text" 
@@ -5532,8 +5532,8 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="e.g., Palm oil, Timber, Cotton, Beef, Soy, Mining materials..."
                           required
                         />
-                      </div>
-                      <div className="form-group">
+              </div>
+              <div className="form-group">
                         <label className="form-label">Country / Jurisdiction *</label>
                         <input 
                           type="text" 
@@ -5543,8 +5543,8 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="e.g., Brazil, Indonesia, State of California, Exclusive Economic Zone..."
                           required
                         />
-                      </div>
-                      <div className="form-group">
+              </div>
+              <div className="form-group">
                         <label className="form-label">Traceability Level *</label>
                         <select 
                           className="form-select"
@@ -5557,10 +5557,10 @@ const GRI101Biodiversity: React.FC = () => {
                           <option value="regional">Regional</option>
                           <option value="local">Local</option>
                           <option value="specific_origin">Specific Point of Origin</option>
-                        </select>
-                      </div>
-                    </div>
-                  </div>
+                </select>
+              </div>
+            </div>
+            </div>
                 ))}
               </div>
             )}
@@ -5598,7 +5598,7 @@ const GRI101Biodiversity: React.FC = () => {
               >
                 + ADD SITE
               </button>
-            </div>
+              </div>
 
             {/* Land Sea Use Change Management */}
             {landSeaUseChange.length === 0 ? (
@@ -5679,9 +5679,9 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         6a i - Area converted since cut-off/reference date
                       </h6>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">Size converted (ha)</label>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">Size converted (ha)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5690,9 +5690,9 @@ const GRI101Biodiversity: React.FC = () => {
                             placeholder="Enter hectares converted"
                             min="0"
                           />
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Cut-off / Reference date</label>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Cut-off / Reference date</label>
                           <input 
                             type="text" 
                             className="form-input"
@@ -5700,9 +5700,9 @@ const GRI101Biodiversity: React.FC = () => {
                             onChange={(e) => updateLandSeaUseChange(entry.id, 'cutoffReferenceDate', e.target.value)}
                             placeholder="e.g., January 1, 2020"
                           />
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Ecosystem type before → after</label>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Ecosystem type before → after</label>
                           <input 
                             type="text" 
                             className="form-input"
@@ -5710,9 +5710,9 @@ const GRI101Biodiversity: React.FC = () => {
                             onChange={(e) => updateLandSeaUseChange(entry.id, 'ecosystemTypeBeforeAfterCutoff', e.target.value)}
                             placeholder="e.g., Tropical Forest → Agricultural Land"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
                     {/* 6a ii - Area converted during reporting period */}
                     <div style={{ 
@@ -5723,9 +5723,9 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         6a ii - Area converted during reporting period between intensively used/modified ecosystems
                       </h6>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">Size converted (ha)</label>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">Size converted (ha)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5734,9 +5734,9 @@ const GRI101Biodiversity: React.FC = () => {
                             placeholder="Enter hectares converted"
                             min="0"
                           />
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Ecosystem type before → after</label>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Ecosystem type before → after</label>
                           <input 
                             type="text" 
                             className="form-input"
@@ -5744,9 +5744,9 @@ const GRI101Biodiversity: React.FC = () => {
                             onChange={(e) => updateLandSeaUseChange(entry.id, 'ecosystemTypeBeforeAfterReporting', e.target.value)}
                             placeholder="e.g., Agricultural Land → Urban Area"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
                   </div>
                 ))}
               </div>
@@ -5785,7 +5785,7 @@ const GRI101Biodiversity: React.FC = () => {
               >
                 + ADD SITE
               </button>
-            </div>
+              </div>
 
             {/* Natural Resources Data Management */}
             {naturalResourcesData.length === 0 ? (
@@ -5866,9 +5866,9 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         6b i - Wild species harvested: quantity, type, and extinction risk
                       </h6>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">Species / Type</label>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">Species / Type</label>
                           <input 
                             type="text" 
                             className="form-input"
@@ -5876,9 +5876,9 @@ const GRI101Biodiversity: React.FC = () => {
                             onChange={(e) => updateNaturalResourcesData(entry.id, 'speciesType', e.target.value)}
                             placeholder="e.g., Atlantic Salmon, Oak Trees, etc."
                           />
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Quantity</label>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Quantity</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5887,9 +5887,9 @@ const GRI101Biodiversity: React.FC = () => {
                             placeholder="Enter quantity harvested"
                             min="0"
                           />
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Extinction risk</label>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Extinction risk</label>
                           <input 
                             type="text" 
                             className="form-input"
@@ -5897,9 +5897,9 @@ const GRI101Biodiversity: React.FC = () => {
                             onChange={(e) => updateNaturalResourcesData(entry.id, 'extinctionRisk', e.target.value)}
                             placeholder="e.g., Vulnerable, Endangered, Least Concern"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
                     {/* 6b ii - Water withdrawal and consumption */}
                     <div style={{ 
@@ -5910,9 +5910,9 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         6b ii - Water withdrawal and water consumption (Ml)
                       </h6>
-                      <div className="form-row">
-                        <div className="form-group">
-                          <label className="form-label">Water withdrawal (Ml)</label>
+              <div className="form-row">
+                <div className="form-group">
+                  <label className="form-label">Water withdrawal (Ml)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5922,9 +5922,9 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.01"
                           />
-                        </div>
-                        <div className="form-group">
-                          <label className="form-label">Water consumption (Ml)</label>
+                </div>
+                <div className="form-group">
+                  <label className="form-label">Water consumption (Ml)</label>
                           <input 
                             type="number" 
                             className="form-input"
@@ -5934,9 +5934,9 @@ const GRI101Biodiversity: React.FC = () => {
                             min="0"
                             step="0.01"
                           />
-                        </div>
-                      </div>
-                    </div>
+                </div>
+              </div>
+            </div>
                   </div>
                 ))}
               </div>
@@ -6055,8 +6055,8 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         Pollutant Information
                       </h6>
-                      <div className="form-row">
-                        <div className="form-group">
+            <div className="form-row">
+              <div className="form-group">
                           <label className="form-label">Pollutant type *</label>
                           <input 
                             type="text" 
@@ -6066,8 +6066,8 @@ const GRI101Biodiversity: React.FC = () => {
                             placeholder="e.g., Nitrogen compounds, Heavy metals, Plastics, etc."
                             required
                           />
-                        </div>
-                        <div className="form-group">
+              </div>
+              <div className="form-group">
                           <label className="form-label">Quantity *</label>
                           <input 
                             type="number" 
@@ -6079,8 +6079,8 @@ const GRI101Biodiversity: React.FC = () => {
                             step="0.01"
                             required
                           />
-                        </div>
-                      </div>
+              </div>
+            </div>
                       <div style={{ 
                         fontSize: '12px', 
                         color: '#6c757d', 
@@ -6092,7 +6092,7 @@ const GRI101Biodiversity: React.FC = () => {
                       }}>
                         <strong>Note:</strong> Only report pollutants that lead or could lead to the most significant impacts on biodiversity. 
                         Include units in the pollutant type field (e.g., "Nitrogen compounds (kg/year)").
-                      </div>
+            </div>
                     </div>
                   </div>
                 ))}
@@ -6212,7 +6212,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         Description of Invasive Alien Species Introduction
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">Description *</label>
                         <textarea 
                           className="form-textarea"
@@ -6223,7 +6223,7 @@ const GRI101Biodiversity: React.FC = () => {
                           required
                           style={{ minHeight: '120px' }}
                         />
-                      </div>
+            </div>
                       <div style={{ 
                         fontSize: '12px', 
                         color: '#6c757d', 
@@ -6402,7 +6402,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         1. Primary Data Availability
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">Is primary data on direct drivers from suppliers available? *</label>
                         <div style={{ display: 'flex', gap: '20px', marginTop: '10px' }}>
                           <label style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -6425,7 +6425,7 @@ const GRI101Biodiversity: React.FC = () => {
                             />
                             No
                           </label>
-                        </div>
+            </div>
                       </div>
                     </div>
 
@@ -6780,7 +6780,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         1. Standards Applied
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">International or internal standards used for data compilation:</label>
                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '10px', marginTop: '10px' }}>
                           {standardsOptions.map(standard => (
@@ -6793,7 +6793,7 @@ const GRI101Biodiversity: React.FC = () => {
                               {standard}
                             </label>
                           ))}
-                        </div>
+            </div>
                         {entry.standardsApplied.includes('Other') && (
                           <input 
                             type="text" 
@@ -7367,12 +7367,12 @@ const GRI101Biodiversity: React.FC = () => {
                     }}>
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057', display: 'flex', alignItems: 'center', gap: '10px' }}>
                         7a i - The ecosystem type for the base year
-                        <InfoIcon 
-                          title="Report which ecosystem classification is used to identify types of ecosystems. Can use biomes or ecosystem functional groups in the IUCN Global Ecosystem Typology. Alternatively, can report according to another global classification, national classification, or register. If ecosystem classifications cannot be used, can use land use classifications (e.g., Globio land use categories) instead."
-                          onClick={() => openGuidance("Report which ecosystem classification is used to identify types of ecosystems. Can use biomes or ecosystem functional groups in the IUCN Global Ecosystem Typology. Alternatively, can report according to another global classification, national classification, or register. If ecosystem classifications cannot be used, can use land use classifications (e.g., Globio land use categories) instead.")}
-                        />
+                <InfoIcon 
+                  title="Report which ecosystem classification is used to identify types of ecosystems. Can use biomes or ecosystem functional groups in the IUCN Global Ecosystem Typology. Alternatively, can report according to another global classification, national classification, or register. If ecosystem classifications cannot be used, can use land use classifications (e.g., Globio land use categories) instead."
+                  onClick={() => openGuidance("Report which ecosystem classification is used to identify types of ecosystems. Can use biomes or ecosystem functional groups in the IUCN Global Ecosystem Typology. Alternatively, can report according to another global classification, national classification, or register. If ecosystem classifications cannot be used, can use land use classifications (e.g., Globio land use categories) instead.")}
+                />
                       </h6>
-                      <div className="form-group">
+              <div className="form-group">
                         <label className="form-label">Ecosystem Type (Base Year) *</label>
                         <textarea 
                           className="form-textarea"
@@ -7382,8 +7382,8 @@ const GRI101Biodiversity: React.FC = () => {
                           rows={4}
                           required
                         />
-                      </div>
-                    </div>
+              </div>
+            </div>
 
                     {/* 7a ii - Ecosystem size for base year */}
                     <div style={{ 
@@ -7394,12 +7394,12 @@ const GRI101Biodiversity: React.FC = () => {
                     }}>
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057', display: 'flex', alignItems: 'center', gap: '10px' }}>
                         7a ii - The ecosystem size in hectares for the base year
-                        <InfoIcon 
-                          title="Ecosystem size, also referred to as ecosystem extent, is the area coverage of the ecosystem that is affected or potentially affected by the organization's activities. This is a fixed area over which the condition of the ecosystem is measured over time."
-                          onClick={() => openGuidance("Ecosystem size, also referred to as ecosystem extent, is the area coverage of the ecosystem that is affected or potentially affected by the organization's activities. This is a fixed area over which the condition of the ecosystem is measured over time.")}
-                        />
+                <InfoIcon 
+                  title="Ecosystem size, also referred to as ecosystem extent, is the area coverage of the ecosystem that is affected or potentially affected by the organization's activities. This is a fixed area over which the condition of the ecosystem is measured over time."
+                  onClick={() => openGuidance("Ecosystem size, also referred to as ecosystem extent, is the area coverage of the ecosystem that is affected or potentially affected by the organization's activities. This is a fixed area over which the condition of the ecosystem is measured over time.")}
+                />
                       </h6>
-                      <div className="form-group">
+              <div className="form-group">
                         <label className="form-label">Ecosystem Size (Hectares - Base Year) *</label>
                         <input 
                           type="number" 
@@ -7411,8 +7411,8 @@ const GRI101Biodiversity: React.FC = () => {
                           step="0.01"
                           required
                         />
-                      </div>
-                    </div>
+              </div>
+            </div>
 
                     {/* 7a iii - Ecosystem condition for base year and current period */}
                     <div style={{ 
@@ -7422,10 +7422,10 @@ const GRI101Biodiversity: React.FC = () => {
                     }}>
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057', display: 'flex', alignItems: 'center', gap: '10px' }}>
                         7a iii - The ecosystem condition for the base year and the current reporting period
-                        <InfoIcon 
-                          title="Ecosystem condition is the quality of an ecosystem measured by its living and non-living characteristics against a reference condition. Living and non-living characteristics include: the ecosystem's composition, function, and structure; the landscape characteristics (e.g., connectivity); and the physical and chemical state characteristics (e.g., soil structure and soil nutrient levels). Ecosystem condition can also provide information on the ecosystem's capacity to supply ecosystem services now and in the future."
-                          onClick={() => openGuidance("Ecosystem condition is the quality of an ecosystem measured by its living and non-living characteristics against a reference condition. Living and non-living characteristics include: the ecosystem's composition, function, and structure; the landscape characteristics (e.g., connectivity); and the physical and chemical state characteristics (e.g., soil structure and soil nutrient levels). Ecosystem condition can also provide information on the ecosystem's capacity to supply ecosystem services now and in the future.")}
-                        />
+                <InfoIcon 
+                  title="Ecosystem condition is the quality of an ecosystem measured by its living and non-living characteristics against a reference condition. Living and non-living characteristics include: the ecosystem's composition, function, and structure; the landscape characteristics (e.g., connectivity); and the physical and chemical state characteristics (e.g., soil structure and soil nutrient levels). Ecosystem condition can also provide information on the ecosystem's capacity to supply ecosystem services now and in the future."
+                  onClick={() => openGuidance("Ecosystem condition is the quality of an ecosystem measured by its living and non-living characteristics against a reference condition. Living and non-living characteristics include: the ecosystem's composition, function, and structure; the landscape characteristics (e.g., connectivity); and the physical and chemical state characteristics (e.g., soil structure and soil nutrient levels). Ecosystem condition can also provide information on the ecosystem's capacity to supply ecosystem services now and in the future.")}
+                />
                       </h6>
                       <div className="form-group" style={{ marginBottom: '15px' }}>
                         <label className="form-label">Ecosystem Condition (Base Year) *</label>
@@ -7436,9 +7436,9 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="Describe ecosystem condition for base year (composition, function, structure, connectivity, physical/chemical characteristics)..."
                           rows={4}
                           required
-                        />
-                      </div>
-                      <div className="form-group">
+                />
+              </div>
+              <div className="form-group">
                         <label className="form-label">Ecosystem Condition (Current Reporting Period) *</label>
                         <textarea 
                           className="form-textarea"
@@ -7448,19 +7448,19 @@ const GRI101Biodiversity: React.FC = () => {
                           rows={4}
                           required
                         />
-                      </div>
-                    </div>
+              </div>
+              </div>
                   </div>
                 ))}
               </div>
             )}
 
-            <div className="save-section">
-              <button className="attachments-link" style={{ background: 'none', border: 'none', cursor: 'pointer' }}>
-                <span>📎</span>
-                <span>Attachments</span>
-              </button>
-              <button className="save-btn">SAVE</button>
+              <div className="save-section">
+                <button className="attachments-link" style={{ background: 'none', border: 'none', cursor: 'pointer' }}>
+                  <span>📎</span>
+                  <span>Attachments</span>
+                </button>
+                <button className="save-btn">SAVE</button>
             </div>
           </div>
 
@@ -7552,7 +7552,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         1. Applicable Standards
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">Which reporting or environmental standards have you followed?</label>
                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '10px', marginTop: '10px' }}>
                           {standardsOptions.map(standard => (
@@ -7565,7 +7565,7 @@ const GRI101Biodiversity: React.FC = () => {
                               {standard}
                             </label>
                           ))}
-                        </div>
+            </div>
                         {entry.applicableStandards.includes('Other') && (
                           <input 
                             type="text" 
@@ -7589,7 +7589,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         2. Data Collection Methodologies
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">How was the biodiversity data collected and analyzed?</label>
                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '10px', marginTop: '10px' }}>
                           {methodologiesOptions.map(methodology => (
@@ -7602,7 +7602,7 @@ const GRI101Biodiversity: React.FC = () => {
                               {methodology}
                             </label>
                           ))}
-                        </div>
+            </div>
                         {entry.dataCollectionMethodologies.includes('Other') && (
                           <input 
                             type="text" 
@@ -7636,7 +7636,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         3. Key Assumptions Made
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">Please list any important assumptions or limitations in the data</label>
                         <textarea 
                           className="form-textarea"
@@ -7645,7 +7645,7 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="List key assumptions such as use of proxy data, estimation methods, excluded suppliers, geographic limitations, temporal assumptions, etc..."
                           rows={5}
                         />
-                      </div>
+            </div>
                     </div>
 
                     {/* Section 4: Data Sources & Evidence */}
@@ -8140,7 +8140,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         Ecosystem Services Affected or Potentially Affected
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">List of ecosystem services *</label>
                         <textarea 
                           className="form-textarea"
@@ -8173,8 +8173,8 @@ const GRI101Biodiversity: React.FC = () => {
                           rows={4}
                           required
                         />
-                      </div>
-                      <div className="form-group">
+            </div>
+            <div className="form-group">
                         <label className="form-label">Number of beneficiaries (optional)</label>
                         <input 
                           type="number" 
@@ -8220,8 +8220,8 @@ const GRI101Biodiversity: React.FC = () => {
                             style={{ marginTop: '10px' }}
                           />
                         )}
-                      </div>
-                      <div className="form-group">
+            </div>
+            <div className="form-group">
                         <label className="form-label">Detailed description of approach</label>
                         <textarea 
                           className="form-textarea"
@@ -8230,7 +8230,7 @@ const GRI101Biodiversity: React.FC = () => {
                           placeholder="Provide detailed description of how ecosystem services were identified, including stakeholder engagement process, data sources, and validation methods..."
                           rows={4}
                         />
-                      </div>
+            </div>
                     </div>
                   </div>
                 ))}
@@ -8334,7 +8334,7 @@ const GRI101Biodiversity: React.FC = () => {
                       <h6 style={{ margin: '0 0 15px 0', color: '#495057' }}>
                         1. List of Ecosystem Services
                       </h6>
-                      <div className="form-group">
+            <div className="form-group">
                         <label className="form-label">Identify which ecosystem services may be affected by your activities *</label>
                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '10px', marginTop: '10px' }}>
                           {ecosystemServicesCategories.map(service => (
@@ -8347,7 +8347,7 @@ const GRI101Biodiversity: React.FC = () => {
                               {service}
                             </label>
                           ))}
-                        </div>
+            </div>
                         {entry.ecosystemServices.includes('Other') && (
                           <input 
                             type="text" 
