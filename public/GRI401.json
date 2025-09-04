@@ -1,0 +1,1022 @@
+[
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "RzOCGJIw",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of Employees",
+          "field": "no_of_employees"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Rate",
+          "field": "rate"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Under 30 years old",
+              "30-50 years old",
+              "Over 50 years old"
+            ]
+          },
+          "label": "Age Group",
+          "field": "age_group"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Male",
+              "Female",
+              "Other",
+              "Undisclosed"
+            ]
+          },
+          "label": "Gender",
+          "field": "gender"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Total number and rate of new employee hires",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eA1TrIox",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. New employee hires and employee turnover",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "n9YSWNBy",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of Employees",
+          "field": "no_of_employees"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.01",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Rate",
+          "field": "rate"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Under 30 years old",
+              "30-50 years old",
+              "Over 50 years old"
+            ]
+          },
+          "label": "Age Group",
+          "field": "age_group"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Male",
+              "Female",
+              "Other",
+              "Undisclosed"
+            ]
+          },
+          "label": "Gender",
+          "field": "gender"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Total number and rate of employee turnover",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eA1TrIox",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. New employee hires and employee turnover",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "PMSJDLUk",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Life Insurance",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Health care",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Disability & invalidity coverage",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Parental leave",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Retirement provision",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Stock ownership",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Amount",
+            "field": "amount"
+          },
+          {
+            "type": "select",
+            "props": {
+              "required": true,
+              "options": [
+                "INR",
+                "USD"
+              ]
+            },
+            "label": "Currency",
+            "field": "currency"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 Direct Risks and opportunities posed by climate change that have the potential to generate substantive changes in operations, revenue, or expenditure",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "zXdMT8-N",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2.Benefits provided to full-time employees",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "snzefP5A",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Male",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Female",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Undisclosed",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "3.1 Total number of employees that were entitled to parental leave.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "wOzkCbol",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3.Parental leave",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "i8SyPSKt",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Male"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Female"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Others"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Undisclosed"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "3.2 Total number of employees that took parental leave.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "wOzkCbol",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3.Parental leave",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "gwfaGrJW",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Male"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Female"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Others"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "label": "",
+            "field": "category",
+            "props": {
+              "value": "Undisclosed"
+            }
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "3.3 Total number of employees that returned to work in the reporting period after parental leave ended",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "wOzkCbol",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3.Parental leave",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "rqSFAbs4",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Male",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Female",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Undisclosed",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "3.4 Total number of employees that returned to work after parental leave ended that were still employed 12 months after their return to work",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "wOzkCbol",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3.Parental leave",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "i. Return to work of employees that took parental leave",
+    "question_external_id": "YH7daqd_",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Male",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Female",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Undisclosed",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "5",
+    "question_title": "3.5 Return to work and Retention rates",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "wOzkCbol",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3.Parental leave",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "1",
+    "card_standards": "GRI 401: Employment",
+    "card_title": "Employment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "ii. Retention rates of employees that took parental leave",
+    "question_external_id": "TFA7oq3X",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Male",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Female",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Others",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Undisclosed",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "No of Employees",
+            "field": "no_of_employees"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "6",
+    "question_title": "3.5 Return to work and Retention rates",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "wOzkCbol",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3.Parental leave",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

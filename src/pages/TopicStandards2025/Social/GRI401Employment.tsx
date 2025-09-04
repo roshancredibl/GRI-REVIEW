@@ -1,14 +1,74 @@
-import React from 'react';
+import React, { useState, useEffect, Suspense } from 'react';
 import { useNavigate } from 'react-router-dom';
+import QuestionnaireRenderer from '../../../esg/render/QuestionnaireRenderer';
+import { loadQuestionnaireFromStem } from '../../../esg/parsers/ingestQuestionnaire';
+import { Questionnaire, ParseError } from '../../../esg/models/questionnaire.types';
+import { useGuidance } from '../../../hooks/useGuidance';
+import GuidanceSidebar from '../../../components/GuidanceSidebar';
 
 const GRI401Employment: React.FC = () => {
   const navigate = useNavigate();
+  const [questionnaire, setQuestionnaire] = useState<Questionnaire | null>(null);
+  const [errors, setErrors] = useState<ParseError[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const { guidanceState, openGuidance, closeGuidance } = useGuidance();
 
   const handleBackClick = () => {
     navigate('/topic-standards-2025/social');
   };
 
+  useEffect(() => {
+    const loadQuestionnaire = async () => {
+      try {
+        setLoading(true);
+        setLoadError(null);
+        // Load GRI401.json based on the component's stem name
+        const result = await loadQuestionnaireFromStem('GRI401', 'GRI', '');
+        setQuestionnaire(result.questionnaire);
+        setErrors(result.errors);
+        if (result.errors.length > 0) {
+          console.warn(`Loaded GRI401 questionnaire with ${result.errors.length} errors`);
+        }
+      } catch (error) {
+        const errorMessage = error instanceof Error ? error.message : 'Failed to load questionnaire';
+        setLoadError(errorMessage);
+        console.error('Failed to load GRI401 questionnaire:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+    loadQuestionnaire();
+  }, []);
+
+  const handleAnswersChange = (answers: Record<string, any>) => {
+    console.log('GRI401 answers updated:', answers);
+    // Here you could save to localStorage, send to API, etc.
+  };
+
+  if (loadError) {
+    return (
+      <div className="page-container">
+        <div className="page-header">
+          <button className="back-btn" onClick={handleBackClick}>← Back</button>
+          <div className="page-title">GRI 401: Employment</div>
+          <button className="download-gri-btn" onClick={() => console.log('Download GRI Standard - Placeholder')}>
+            Download the GRI Standard
+          </button>
+        </div>
+        <div className="materials-page">
+          <div className="error-container">
+            <h3>Error Loading Questionnaire</h3>
+            <p>{loadError}</p>
+            <p>Please check if GRI401.json exists and is properly formatted.</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   return (
+    <>
     <div className="page-container">
       <div className="page-header">
         <button className="back-btn" onClick={handleBackClick}>← Back</button>
@@ -19,69 +79,36 @@ const GRI401Employment: React.FC = () => {
       </div>
       <div className="materials-page">
         <div className="page-top-info">
-          <div className="info-item">
-            <span>👤</span>
-            <span>Assignee:</span>
-          </div>
-          <div className="info-item">
-            <span>👥</span>
-            <span>Contributor:</span>
-          </div>
-          <div className="info-item">
-            <span>📎</span>
-            <span>Attachments</span>
-          </div>
+          <div className="info-item"><span>👤</span><span>Assignee:</span></div>
+          <div className="info-item"><span>👥</span><span>Contributor:</span></div>
+          <div className="info-item"><span>📎</span><span>Attachments</span></div>
         </div>
-        
-        <div className="section-header">
-          <div className="section-title">Employment</div>
-          <div className="gri-reference">GRI 401: Employment</div>
-          <div className="main-heading">
-            1. New employee hires and employee turnover
-            <div className="info-icon">i</div>
-          </div>
-        </div>
-        
-        <div className="subsection">
-          <div className="subsection-title">
-            1.1 Total number and rates of new employee hires and employee turnover.
-            <div className="collaboration-icon">👥</div>
-          </div>
-          
-          <div className="form-row">
-            <div className="form-group">
-              <label className="form-label">New Hires</label>
-              <input type="text" className="form-input" placeholder="Enter number" />
+        <Suspense fallback={<div className="loading-spinner">Loading questionnaire...</div>}>
+          {questionnaire ? (
+            <QuestionnaireRenderer
+              questionnaire={questionnaire}
+              errors={errors}
+              loading={loading}
+              onAnswersChange={handleAnswersChange}
+              showSummary={true}
+              onGuidanceOpen={openGuidance}
+            />
+          ) : loading ? (
+            <div className="loading-container">
+              <div className="loading-spinner">Loading GRI 401 questionnaire...</div>
             </div>
-            <div className="form-group">
-              <label className="form-label">Turnover Rate (%)</label>
-              <input type="text" className="form-input" placeholder="Enter percentage" />
-            </div>
-            <div className="form-group">
-              <label className="form-label">Employment Type</label>
-              <select className="form-select">
-                <option>Select Type</option>
-                <option>Full-time</option>
-                <option>Part-time</option>
-                <option>Contract</option>
-              </select>
-            </div>
-          </div>
-          
-          <div className="form-actions">
-            <button className="add-btn">+ADD</button>
-          </div>
-          
-          <div className="save-section">
-            <button className="attachments-link" style={{ background: 'none', border: 'none', cursor: 'pointer' }}>
-              <span>📎</span>
-              <span>Attachments</span>
-            </button>
-            <button className="save-btn">SAVE</button>
-          </div>
-        </div>
+          ) : null}
+        </Suspense>
       </div>
     </div>
+
+      {/* Guidance Sidebar */}
+  <GuidanceSidebar
+    guidanceState={guidanceState}
+    closeGuidance={closeGuidance}
+    griStandard="GRI401"
+  />
+  </>
   );
 };
 

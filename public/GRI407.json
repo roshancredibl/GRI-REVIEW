@@ -1,0 +1,84 @@
+[
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 407: Freedom of Association and Collective Bargaining",
+    "card_title": "Freedom of Association and Collective Bargaining",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "Uld1Kl-A",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "i. Type of operation",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "ii. Countries or geographic areas with operations and suppliers considered at risk.",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Operations and suppliers in which workers’ rights to exercise freedom of association or collective bargaining may be violated or at significant risk",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "-2xBCJgA",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 407: Freedom of Association and Collective Bargaining",
+    "card_title": "Freedom of Association and Collective Bargaining",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "OcnEzkWQ",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Measures taken by the organization in the reporting period intended to support rights to exercise freedom of association and collective bargaining.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "-2xBCJgA",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

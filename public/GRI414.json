@@ -1,0 +1,206 @@
+[
+  {
+    "card_sequence": "14",
+    "card_standards": "GRI 414: Supplier Social Assessment",
+    "card_title": "Supplier Social Assessment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Zzj7bq2N",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Enter percentage",
+            "min": "0"
+          },
+          "label": "Value",
+          "field": "percentage"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Percentage of new suppliers that were screened using social criteria.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "MoAxs9cm",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. New suppliers that were screened using social criteria.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "14",
+    "card_standards": "GRI 414: Supplier Social Assessment",
+    "card_title": "Supplier Social Assessment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "HZFkDRfi",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of supplier",
+          "field": "no_of_supplier"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Location",
+          "field": "location"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Social Impact",
+            "options": [
+              "Actual social impact",
+              "Potential Negative Social Impact"
+            ]
+          },
+          "label": "",
+          "field": "social_impact"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 Number of suppliers assessed for social impacts",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Mfd5r7iH",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Negative social impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "14",
+    "card_standards": "GRI 414: Supplier Social Assessment",
+    "card_title": "Supplier Social Assessment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "bFtRtKGl",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "2.2 Significant actual and potential negative social impacts identified in the supply chain.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Mfd5r7iH",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Negative social impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "14",
+    "card_standards": "GRI 414: Supplier Social Assessment",
+    "card_title": "Supplier Social Assessment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "QuNfrisa",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true
+          },
+          "label": "Percentage of suppliers",
+          "field": "supplier_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Location",
+          "field": "location"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "2.3 Suppliers identified as having significant actual and potential negative social impacts with which improvements were agreed upon as a result of assessment",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Mfd5r7iH",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Negative social impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "14",
+    "card_standards": "GRI 414: Supplier Social Assessment",
+    "card_title": "Supplier Social Assessment",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "F0BJm8Rv",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true
+          },
+          "label": "Percentage of suppliers",
+          "field": "supplier_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "Reason",
+          "field": "reason"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "2.4 Suppliers identified as having signitificant actual and potential negative social impact with which relationships were terminated as a result of assessment",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Mfd5r7iH",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Negative social impacts in the supply chain and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

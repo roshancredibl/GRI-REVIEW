@@ -1,0 +1,345 @@
+[
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. Whether the organization has a tax strategy and, if so, a link to this strategy if publicly available.",
+    "question_external_id": "Rn_LqryE",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 A description of the approach to tax.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_Jfsd6MR",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Approach to tax.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "ii. The governance body or executive-level position within the organization that formally reviews and approves the tax strategy, and the frequency of this review.",
+    "question_external_id": "NLQ803ks",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Employee reviews tax strategy",
+          "field": "employeeS_reviews_taxs"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Frequency of this review",
+          "field": "frequency_of_review"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.1 A description of the approach to tax.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_Jfsd6MR",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Approach to tax.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iii. The approach to regulatory compliance.",
+    "question_external_id": "wVj6gYXB",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "1.1 A description of the approach to tax.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_Jfsd6MR",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Approach to tax.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iv. How the approach to tax is linked to the business and sustainable development strategies of the organization.",
+    "question_external_id": "YfXL29lb",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "1.1 A description of the approach to tax.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_Jfsd6MR",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Approach to tax.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "cW4ikMMP",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "i. The governance body or executive-level position within the organization accountable for compliance with the tax strategy.",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "ii. How the approach to tax is embedded within the organization.",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "iii. The approach to tax risks, including how risks are identified, managed, and monitored.",
+          "field": "value3"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "iv. how compliance with the tax governance and control framework is evaluated.",
+          "field": "value4"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 A description of the tax governance and control framework.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yiZNNAKF",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Tax governance, control, and risk management",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "zfLQ0YuF",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "2.2 A description of the mechanisms to raise concerns about the organization’s business conduct and the organization’s integrity in relation to tax.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yiZNNAKF",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Tax governance, control, and risk management",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "gRSJDjsv",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "2.3 A description of the assurance process for disclosures on tax including, if applicable, a link or reference to the external assurance report(s) or assurance statement(s).",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "yiZNNAKF",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Tax governance, control, and risk management",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "7",
+    "card_standards": "GRI 207: Tax",
+    "card_title": "Tax",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "2gingtWO",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "i. The approach to engagement with tax authorities.",
+          "field": "value1"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "ii. The approach to public policy advocacy on tax.",
+          "field": "value2"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "iii. The approach to public policy advocacy on tax.",
+          "field": "value3"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "3.1 A description of the approach to stakeholder engagement and management of stakeholder concerns related to tax.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_a1156JJ",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Stakeholder engagement and management of concerns related to tax.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

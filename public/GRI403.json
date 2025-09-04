@@ -1,0 +1,1501 @@
+[
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "9aX8TbFM",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 The system has been implemented because of legal requirements",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "gMhquDau",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "4ZGS9X96",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 The system has been implemented based on recognized risk management and/or management system standards/guidelines",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "gMhquDau",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "TJX0QsTo",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "1.3 A description of the scope of workers, activities, and workplaces covered by the occupational health and safety management system",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "gMhquDau",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "UUk4_G1M",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 The system has been implemented because of legal requirements the processes used to identify work-related hazards and assess risks on a routine and non-routine basis, and to apply the hierarchy of controls in order to eliminate hazards and minimize risks",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eGhrkfdA",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Hazard identification, risk assessment, and incident investigation",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "TtI-ieNn",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "2.2 The processes for workers to report work-related hazards and hazardous situations, and an explanation of how workers are protected against reprisals",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eGhrkfdA",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Hazard identification, risk assessment, and incident investigation",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "5XHvOb9e",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "2.3 The policies and processes for workers to remove themselves from work situations that they believe could cause injury or ill health, and an explanation of how workers are protected against reprisals",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eGhrkfdA",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Hazard identification, risk assessment, and incident investigation",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "F8NWZM9D",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "2.4 The processes used to investigate work-related incident and to determine corrective actions using the hierarchy of controls, and to determine improvements needed in the occupational health and safety management system",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eGhrkfdA",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Hazard identification, risk assessment, and incident investigation",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "VVdCC5Ja",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "3.1 The occupational health services’ functions that contribute to the identification and elimination of hazards and minimization of risks, and an explanation of how the organization ensures the quality of these services and facilitates workers’ access to them.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "blfWFE9y",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Occupational health services",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "LBt7RhLD",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "4.1 The processes for worker participation and consultation in the development, implementation, and evaluation and for providing access to and communicating relevant information.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "XVID0U-L",
+    "questionnaire_section_sequence": "4",
+    "questionnaire_section_title": "4. Worker participation, consultation, and communication on occupational health and safety",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "BOe266qw",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "4.2 Formal joint management-worker health and safety committees exist, Their responsibilities, meeting frequency, decision-making authority, and whether and, if so, why any workers are not represented by these committees.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "XVID0U-L",
+    "questionnaire_section_sequence": "4",
+    "questionnaire_section_title": "4. Worker participation, consultation, and communication on occupational health and safety",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "ik5T1fJv",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "5.1 Occupational health and safety training provided to workers, including generic training as well as training on specific work-related hazard, hazardous activities, or hazardous situations",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "TtvGhNXm",
+    "questionnaire_section_sequence": "5",
+    "questionnaire_section_title": "5. Worker training on occupational health and safety",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "wbYZw_ZF",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "6.1 The organization facilitates workers’ access to non-occupational medical and healthcare services, and the scope of access provided",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "kYKvZMZR",
+    "questionnaire_section_sequence": "6",
+    "questionnaire_section_title": "6. Promotion of worker health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Xi8kTsXo",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "6.2 Voluntary health promotion services and programs offered to workers to address major non-work-related health risks",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "kYKvZMZR",
+    "questionnaire_section_sequence": "6",
+    "questionnaire_section_title": "6. Promotion of worker health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "ShCq76Tb",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "3",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "7.1 Approach to preventing or mitigating significant negative occupational health and safety impacts that are directly linked to its operations, products, or services by its business relationships, and the related hazards and risks.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Pit2pJdn",
+    "questionnaire_section_sequence": "7",
+    "questionnaire_section_title": "7. Prevention and mitigation of occupational health and safety impacts directly linked by business relationships",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "i. Total employees who are not employees but whose work and/or workplace is controlled by the organization, who are covered by a system.",
+    "question_external_id": "6qHnfLj3",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Number of Employees",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of Employees",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "8.1 The organization has implemented an occupational health and safety management system based on legal requirements and/or recognized standards/guidelines.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "q0nNMzyb",
+    "questionnaire_section_sequence": "8",
+    "questionnaire_section_title": "8. Workers covered by an occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "ii. Total employees who are not employees but whose work and/or workplace is controlled by the organization, who are covered by such a system that has been internally audited.",
+    "question_external_id": "vehwJOtx",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Number of Employees",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of Employees",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "8.1 The organization has implemented an occupational health and safety management system based on legal requirements and/or recognized standards/guidelines.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "q0nNMzyb",
+    "questionnaire_section_sequence": "8",
+    "questionnaire_section_title": "8. Workers covered by an occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "iii. Total employees who are not employees but whose work and/or workplace is controlled by the organization, who are covered by such a system that has been audited or certified by an external party.",
+    "question_external_id": "V2pakih0",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Number of Employees",
+          "field": "value1"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of Employees",
+          "field": "value2"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "8.1 The organization has implemented an occupational health and safety management system based on legal requirements and/or recognized standards/guidelines.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "q0nNMzyb",
+    "questionnaire_section_sequence": "8",
+    "questionnaire_section_title": "8. Workers covered by an occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Vv6g2iEk",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "8.2 Why any workers have been excluded from occupational health and safety management system, including the types of worker excluded.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "q0nNMzyb",
+    "questionnaire_section_sequence": "8",
+    "questionnaire_section_title": "8. Workers covered by an occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "t6kn7w2p",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "8.3 Do any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "q0nNMzyb",
+    "questionnaire_section_sequence": "8",
+    "questionnaire_section_title": "8. Workers covered by an occupational health and safety management system",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The number of hours worked",
+    "question_external_id": "PYIMSbcx",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "9.1 For all employees",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "ii. Fatalities as a result, high-consequence and recordable work-related injuries.",
+    "question_external_id": "0PW6hiSQ",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Fatalities",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0",
+              "disabled": false
+            },
+            "label": "Number of Employees",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0",
+              "disabled": false
+            },
+            "label": "Rate",
+            "field": "value2"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "High-consequence",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Number of Employees",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "",
+            "field": "value2"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Recordable",
+              "required": true
+            },
+            "label": "Rate",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Number of Employees",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Rate",
+            "field": "value2"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "9.1 For all employees",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Provide main types of work-related injury.",
+    "question_external_id": "jf4hA7jm",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "9.1 For all employees",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "i. The number of hours worked",
+    "question_external_id": "Cpko-Yeo",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "9.2 For all workers who are not employees but whose work and/or workplace is controlled by the organization",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "ii. Fatalities as a result, high-consequence and recordable work-related injuries.",
+    "question_external_id": "3SOZqLrA",
+    "question_schema": {
+      "metadata": {},
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Fatalities",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0",
+              "disabled": false
+            },
+            "label": "Number of Employees",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0",
+              "disabled": false
+            },
+            "label": "Rate",
+            "field": "value2"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "High-consequence",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Number of Employees",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Rate",
+            "field": "value2"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Recordable",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Number of Employees",
+            "field": "value1"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "disabled": false
+            },
+            "label": "Rate",
+            "field": "value2"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "5",
+    "question_title": "9.2 For all workers who are not employees but whose work and/or workplace is controlled by the organization",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "iii. Provide main types of work-related injury.",
+    "question_external_id": "4GIXEDC9",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "6",
+    "question_title": "9.2 For all workers who are not employees but whose work and/or workplace is controlled by the organization",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "dQ7q0kbU",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "7",
+    "question_title": "9.3 The work related hazards that pose a risk of high-consequence injury.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "qrQY0zMY",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "8",
+    "question_title": "9.4 Actions taken or uderway to eliminate other work related hazards and minimize risks using the hierarchy of controls.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Ib14OqJb",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "9",
+    "question_title": "9.5 Why any workers have been excluded from this disclosure, including the types of worker excluded.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "9I004usu",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "10",
+    "question_title": "9.6 Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "eX3gqSEt",
+    "questionnaire_section_sequence": "9",
+    "questionnaire_section_title": "9. Work-related injuries",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "i. The number of Fatalities as a result and cases of recordable work-related ill health.",
+    "question_external_id": "L2yvJTWk",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Fatalities",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Number of Employees",
+            "field": "value"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Cases of recordable",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Number of Employees",
+            "field": "value"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "10.1 Total employees who are not employees but whose work and/or workplace is controlled by the organization, who are covered by a system.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Provide main types of work-related injury.",
+    "question_external_id": "D6Vn-KS5",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "10.1 Total employees who are not employees but whose work and/or workplace is controlled by the organization, who are covered by a system.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "i. The number of Fatalities as a result and cases of recordable work-related ill health.",
+    "question_external_id": "0yaN_Ov2",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Fatalities",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Number of Employees",
+            "field": "value"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Cases of recordable",
+              "required": true
+            },
+            "label": "",
+            "field": "category"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Number of Employees",
+            "field": "value"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "10.2 For all workers who are not employees but whose work and/or workplace is controlled by the organization, who are covered by a system.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Provide main types of work-related injury.",
+    "question_external_id": "lWWT10m0",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "10.2 For all workers who are not employees but whose work and/or workplace is controlled by the organization, who are covered by a system.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Oc1k23yq",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "5",
+    "question_title": "10.3 The work-related hazards that pose a risk of illhealth",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "buiJAc6i",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "6",
+    "question_title": "10.4 Why any workers have been excluded from this disclosure, including the types of worker excluded.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "3",
+    "card_standards": "GRI 403: Occupational Health and Safety",
+    "card_title": "Occupational Health & Safety",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "hOHDa7pg",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "7",
+    "question_title": "10.5 Any contextual information necessary to understand how the data have been compiled, such as any standards, methodologies, and assumptions used.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "H10CQ9ne",
+    "questionnaire_section_sequence": "10",
+    "questionnaire_section_title": "10. Work-related ill health",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

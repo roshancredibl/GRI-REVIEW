@@ -1,0 +1,541 @@
+[
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "sbf3TUuG",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Operation",
+            "min": "0"
+          },
+          "label": "Total number of operations",
+          "field": "total_no_of_operation"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Percentage",
+            "min": "0"
+          },
+          "label": "Percentage of operations",
+          "field": "operation_percentage"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Operations assessed for risks related to corruption.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "S_1-Dssk",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Operations assessed for risks related to corruption.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "sg1zZIxC",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Significant risks related to corruption identified through the risk assessment.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "S_1-Dssk",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Operations assessed for risks related to corruption.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "I1MsMbVr",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of members",
+          "field": "total_no_of_members"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of members",
+          "field": "member_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 Governance body members that the organization’s anti-corruption policies and procedures have been communicated to.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Bc79Eu03",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Communication and training about anti-corruption policies and procedures.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "FUCk7N6A",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of employees",
+          "field": "total_no_of_employees"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of employees",
+          "field": "employee_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Employee Category",
+          "field": "employee_category"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "2.2 Governance body members that the organization’s anti-corruption policies and procedures have been communicated to, broken down by region.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Bc79Eu03",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Communication and training about anti-corruption policies and procedures.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "i. Total number and percentage of business partners.",
+    "question_external_id": "f2lcs9kn",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of members",
+          "field": "total_no_of_members"
+        },
+        {
+          "type": "number",
+          "props": {
+            "step": "0.000000000001",
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of members",
+          "field": "member_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Type of business partner",
+          "field": "business_partner"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "2.3 Governance body members that the organization’s anti-corruption policies and procedures have been communicated to.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Bc79Eu03",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Communication and training about anti-corruption policies and procedures.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "ii. Describe if the organization’s anti-corruption policies and procedures have been communicated to any other persons or organizations.",
+    "question_external_id": "akrC3UcB",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "2.3 Governance body members that the organization’s anti-corruption policies and procedures have been communicated to.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Bc79Eu03",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Communication and training about anti-corruption policies and procedures.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "sMzI7Xkr",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of members",
+          "field": "total_no_of_employees"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of members",
+          "field": "employees_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Member Category",
+          "field": "category"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "5",
+    "question_title": "2.4 Governance body members that have received training on anti-corruption, broken down by region.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Bc79Eu03",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Communication and training about anti-corruption policies and procedures.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "4w4KnmhV",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of employees",
+          "field": "total_no_of_employees"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Percentage of employees",
+          "field": "employees_percentage"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Employee Category",
+          "field": "category"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Region",
+          "field": "region"
+        }
+      ]
+    },
+    "question_sequence": "6",
+    "question_title": "2.5 Employees that have received training on anti-corruption.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "Bc79Eu03",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Communication and training about anti-corruption policies and procedures.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "n5iuSiYm",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of confirmed incidents",
+          "field": "total_no_of_incidents"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Nature of incidents",
+          "field": "nature_of_incidents"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "3.1 Total number and nature of confirmed incidents of corruption.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "nSB_aQ-B",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Confirmed incidents of corruption and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "FiPmHps7",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of confirmed incidents",
+          "field": "total_no_of_confirm_incidents"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "3.2 Total number of confirmed incidents in which employees were dismissed or disciplined for corruption.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "nSB_aQ-B",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Confirmed incidents of corruption and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "IvqlYG5F",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total no of confirmed incidents",
+          "field": "total_no_of_confirm_incidents"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "3.3 Total number of confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "nSB_aQ-B",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Confirmed incidents of corruption and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 205: Anti-corruption",
+    "card_title": "Anti-corruption",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "Brbf8tMS",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "4",
+    "question_title": "3.4 Public legal cases regarding corruption brought against the organization or its employees during the reporting period and the outcomes of such cases.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "nSB_aQ-B",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Confirmed incidents of corruption and actions taken.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

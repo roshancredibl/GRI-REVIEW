@@ -1,0 +1,80 @@
+[
+  {
+    "card_sequence": "10",
+    "card_standards": "GRI 410: Security Practices",
+    "card_title": "Security Practices",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_single_answer",
+    "question_description": "",
+    "question_external_id": "3d0aJtrN",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Total number of security personnel",
+          "field": "total_no_of_security_personnel"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0",
+            "max": "100"
+          },
+          "label": "Percentage of security personnel",
+          "field": "percentage_of_security_personnel"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 security personnel who have received formal training in the organization’s human rights policies or specific procedures and their application to security.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "ABGUCfyo",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Security personnel trained in human rights policies or procedures",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "10",
+    "card_standards": "GRI 410: Security Practices",
+    "card_title": "Security Practices",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "AzLN_zOo",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Whether training requirements also apply to third-party organizations providing security personnel.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "ABGUCfyo",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Security personnel trained in human rights policies or procedures",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

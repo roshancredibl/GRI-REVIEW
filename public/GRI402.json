@@ -1,0 +1,71 @@
+[
+  {
+    "card_sequence": "2",
+    "card_standards": "GRI 402: Labor",
+    "card_title": "Labor",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "FqrTnX-Z",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "placeholder": "Enter number of weeks",
+            "min": "0"
+          },
+          "label": "",
+          "field": "no_of_weeks"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Minimum number of weeks’ notice provided to employees their representatives prior to the implementation of significant operational changes.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "nzC_HkO5",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Minimum notice periods regarding operational changes",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "2",
+    "card_standards": "GRI 402: Labor",
+    "card_title": "Labor",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "uy5i1DEC",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 For organizations with collective bargaining agreements, report whether the notice period and provisions for consultation and negotiation are specified in collective agreements",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "nzC_HkO5",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Minimum notice periods regarding operational changes",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

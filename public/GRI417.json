@@ -1,0 +1,356 @@
+[
+  {
+    "card_sequence": "17",
+    "card_standards": "GRI 417: Marketing and Labeling",
+    "card_title": "Marketing and Labeling",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "KjBf_gbd",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "i. The sourcing of components of the product or service ",
+          "field": "value1"
+        },
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "ii. Content, particularly with regard to substances that might produce an environmental or social impact",
+          "field": "value2"
+        },
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "iii. Safe use of the product or service",
+          "field": "value3"
+        },
+        {
+          "type": "radio",
+          "props": {
+            "required": true,
+            "options": [
+              "Yes",
+              "No"
+            ]
+          },
+          "label": "iv. Disposal of the product and environmental or social impacts",
+          "field": "value4"
+        },
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": false,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "v. Other",
+          "field": "value5"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Information is required by the organization's procedure for product and service information and labeling",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_EL2Y7Rz",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Requirements for product and service information and labeling.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "17",
+    "card_standards": "GRI 417: Marketing and Labeling",
+    "card_title": "Marketing and Labeling",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "lE8rbxcN",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Percentage of significant product or service categories covered by and assessed for compliance with such procedures.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "_EL2Y7Rz",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Requirements for product and service information and labeling.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "17",
+    "card_standards": "GRI 417: Marketing and Labeling",
+    "card_title": "Marketing and Labeling",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "0EplbxiL",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Fine or penalty",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of incidents",
+            "field": "total_incidents"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Warning",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of incidents",
+            "field": "total_incidents"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Voluntary codes",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of incidents",
+            "field": "total_incidents"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 Total number of incidents of non-compliance with regulations and/or voluntary codes concerning product and service information and labeling",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tja5Wo48",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Incidents of non-compliance concerning product and service information and labeling.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "17",
+    "card_standards": "GRI 417: Marketing and Labeling",
+    "card_title": "Marketing and Labeling",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "hKKv9lfw",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "2.2 If the organization has not identified any substantiated complaints, a brief statement of this fact is sufficient.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "tja5Wo48",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Incidents of non-compliance concerning product and service information and labeling.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "17",
+    "card_standards": "GRI 417: Marketing and Labeling",
+    "card_title": "Marketing and Labeling",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_multiple_input_single_answer",
+    "question_description": "",
+    "question_external_id": "82bbJuI0",
+    "question_schema": {
+      "inputs": [
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Fine or penalty",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of incidents",
+            "field": "total_incidents"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Warning",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of incidents",
+            "field": "total_incidents"
+          }
+        ],
+        [
+          {
+            "type": "label",
+            "props": {
+              "value": "Voluntary codes",
+              "required": true
+            },
+            "label": "Type",
+            "field": "type"
+          },
+          {
+            "type": "number",
+            "props": {
+              "required": true,
+              "min": "0"
+            },
+            "label": "Total number of incidents",
+            "field": "total_incidents"
+          }
+        ]
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "3.1 Total number of incidents of non-compliance with regulations and/or voluntary codes concerning marketing communications, including advertising, promotion and sponsorship",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "t-U9yxKr",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Incidents of non-compliance concerning marketing communications",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "17",
+    "card_standards": "GRI 417: Marketing and Labeling",
+    "card_title": "Marketing and Labeling",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "8jlsjOnZ",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "3.2 If the organization has not identified any non-compliance with regulations and/or voluntary codes, a  brief statement of this fact is sufficient.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "t-U9yxKr",
+    "questionnaire_section_sequence": "3",
+    "questionnaire_section_title": "3. Incidents of non-compliance concerning marketing communications",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 405: Diversity and Equal Opportunity",
+    "card_title": "Diversity and Equal Opportunity",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "Rl2g4Rd2",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of Individuals",
+          "field": "no_of_individuals"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Male",
+              "Female",
+              "Others",
+              "Undisclosed"
+            ]
+          },
+          "label": "Gender",
+          "field": "gender"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Age Group",
+            "options": [
+              "Under 30 years old",
+              "30-50 years old",
+              "Over 50 years old"
+            ]
+          },
+          "label": "Age Group",
+          "field": "age_group"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Indicators of diversity",
+          "field": "indicator_of_diversity"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true
+          },
+          "label": "% of Individuals",
+          "field": "percentage_of_individuals"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Percentage of individuals within the organization’s governance bodies.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "EXFWOnJy",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Diversity of governance bodies and employees.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 405: Diversity and Equal Opportunity",
+    "card_title": "Diversity and Equal Opportunity",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "XnZoxMIr",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "No of Individuals",
+          "field": "no_of_individuals"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Male",
+              "Female",
+              "Others",
+              "Undisclosed"
+            ]
+          },
+          "label": "Gender",
+          "field": "gender"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "placeholder": "Select Age Group",
+            "options": [
+              "Under 30 years old",
+              "30-50 years old",
+              "Over 50 years old"
+            ]
+          },
+          "label": "Age Group",
+          "field": "age_group"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Indicators of diversity",
+          "field": "indicator_of_diversity"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true
+          },
+          "label": "% of Individuals",
+          "field": "percentage_of_individuals"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Percentage of employees per employee category.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "EXFWOnJy",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Diversity of governance bodies and employees.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 405: Diversity and Equal Opportunity",
+    "card_title": "Diversity and Equal Opportunity",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_multi_input_multi_answer",
+    "question_description": "",
+    "question_external_id": "#NAME?",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "Ratio of the basic salary and remuneration",
+          "field": "basic_salary_ratio"
+        },
+        {
+          "type": "select",
+          "props": {
+            "required": true,
+            "options": [
+              "Male",
+              "Female",
+              "Others",
+              "Undisclosed"
+            ]
+          },
+          "label": "Gender",
+          "field": "gender"
+        },
+        {
+          "type": "text",
+          "props": {
+            "required": true
+          },
+          "label": "Locations of operation",
+          "field": "location_of_operation"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "2.1 Ratio of the basic salary and remuneration of women to men for each employee category, by significant locations of operation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "5v4NaUx5",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Ratio of basic salary and remuneration of women to men.",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "5",
+    "card_standards": "GRI 405: Diversity and Equal Opportunity",
+    "card_title": "Diversity and Equal Opportunity",
+    "esg_type": "Topic Standards :- Social",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "OsiM_Xf6",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "textarea",
+          "props": {
+            "rows": "2",
+            "required": true,
+            "placeholder": "Enter Text",
+            "columns": "60"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "2.2 The definition used for ‘significant locations of operation.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "5v4NaUx5",
+    "questionnaire_section_sequence": "2",
+    "questionnaire_section_title": "2. Ratio of basic salary and remuneration of women to men.",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

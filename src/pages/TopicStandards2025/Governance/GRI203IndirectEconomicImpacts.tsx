@@ -42,6 +42,11 @@ const GRI203IndirectEconomicImpacts: React.FC = () => {
     loadQuestionnaire();
   }, []);
 
+  const handleAnswersChange = (answers: Record<string, any>) => {
+    console.log('GRI203 answers updated:', answers);
+    // Here you could save to localStorage, send to API, etc.
+  };
+
   if (loadError) {
     return (
       <div className="page-container">
@@ -72,14 +77,25 @@ const GRI203IndirectEconomicImpacts: React.FC = () => {
         </button>
       </div>
       <div className="materials-page">
-        <Suspense fallback={<div className="loading-indicator">Loading questionnaire...</div>}>
+        <div className="page-top-info">
+          <div className="info-item"><span>👤</span><span>Assignee:</span></div>
+          <div className="info-item"><span>👥</span><span>Contributor:</span></div>
+          <div className="info-item"><span>📎</span><span>Attachments</span></div>
+        </div>
+        <Suspense fallback={<div className="loading-spinner">Loading questionnaire...</div>}>
           {questionnaire ? (
             <QuestionnaireRenderer
               questionnaire={questionnaire}
               errors={errors}
               loading={loading}
+              onAnswersChange={handleAnswersChange}
+              showSummary={true}
               onGuidanceOpen={openGuidance}
             />
+          ) : loading ? (
+            <div className="loading-container">
+              <div className="loading-spinner">Loading GRI 203 questionnaire...</div>
+            </div>
           ) : null}
         </Suspense>
       </div>

@@ -1,0 +1,101 @@
+[
+  {
+    "card_sequence": "4",
+    "card_standards": "GRI 204: Procurement Practices",
+    "card_title": "Procurement Practices",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "aik5LFcR",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Percentage of the procurement budget used for significant locations of operation that is spent on suppliers local to that operation (such as percentage of products and services purchased locally).",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "XK_pAyIP",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Proportion of spending on local suppliers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "4",
+    "card_standards": "GRI 204: Procurement Practices",
+    "card_title": "Procurement Practices",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "9NP5v2SB",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 The organization’s geographical definition of ‘local’.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "XK_pAyIP",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Proportion of spending on local suppliers",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "4",
+    "card_standards": "GRI 204: Procurement Practices",
+    "card_title": "Procurement Practices",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "yTD12E7D",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "3",
+    "question_title": "1.3 The definition used for ‘significant locations of operation’.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "XK_pAyIP",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Proportion of spending on local suppliers",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]

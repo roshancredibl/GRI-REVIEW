@@ -1,0 +1,78 @@
+[
+  {
+    "card_sequence": "6",
+    "card_standards": "GRI 206: Anti-competitive Behavior",
+    "card_title": "Anti-competitive Behavior",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "multiple_row_single_input_single_answer_vertical",
+    "question_description": "",
+    "question_external_id": "v1dyvv4X",
+    "question_schema": {
+      "layout": "vertical",
+      "inputs": [
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "i. Number of legal actions pending.",
+          "field": "legal_action_pending"
+        },
+        {
+          "type": "number",
+          "props": {
+            "required": true,
+            "min": "0"
+          },
+          "label": "ii. Number of legal actions completed.",
+          "field": "legal_action_completed"
+        }
+      ]
+    },
+    "question_sequence": "1",
+    "question_title": "1.1 Anti-competitive behavior and violations of anti-trust and monopoly legislation in which the organization has been identified as a participant.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "llL5wlZ0",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Legal actions for anti-competitive behavior, anti-trust, and monopoly practices",
+    "report_type": "GRI",
+    "subsections": ""
+  },
+  {
+    "card_sequence": "6",
+    "card_standards": "GRI 206: Anti-competitive Behavior",
+    "card_title": "Anti-competitive Behavior",
+    "esg_type": "Topic Standards :- Governance",
+    "is_card_active": "1",
+    "is_enabled_for_facility": "",
+    "monthly": "",
+    "question_class": "single_row_single_input_single_answer",
+    "question_description": "",
+    "question_external_id": "a_nE00dv",
+    "question_schema": {
+      "inputs": [
+        {
+          "type": "text",
+          "props": {
+            "required": true,
+            "placeholder": "Enter Text"
+          },
+          "label": "",
+          "field": "value"
+        }
+      ]
+    },
+    "question_sequence": "2",
+    "question_title": "1.2 Main outcomes of completed legal actions, including any decisions or judgements.",
+    "questionnaire_section_description": "",
+    "questionnaire_section_external_id": "llL5wlZ0",
+    "questionnaire_section_sequence": "1",
+    "questionnaire_section_title": "1. Legal actions for anti-competitive behavior, anti-trust, and monopoly practices",
+    "report_type": "GRI",
+    "subsections": ""
+  }
+]
